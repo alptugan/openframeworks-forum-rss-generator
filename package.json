@@ -1,0 +1,23 @@
+{
+  "name": "openframeworks-forum-rss-generator",
+  "version": "1.0.0",
+  "description": "RSS feed generator for OpenFrameworks forum with static site viewer",
+  "main": "backend/scraper.js",
+  "scripts": {
+    "scrape": "node backend/scraper.js",
+    "dev": "npm run scrape && npx serve docs",
+    "preview": "npx serve docs"
+  },
+  "keywords": [
+    "openframeworks",
+    "scraper",
+    "rss",
+    "forum"
+  ],
+  "author": "alp tugan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

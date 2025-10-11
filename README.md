@@ -108,7 +108,7 @@ npm run dev
 Create `.github/workflows/scrape.yml`:
 
 ```yaml
-name: Scrape and Deploy
+name: openframeworks Forum RSS generator
 
 on:
   schedule:

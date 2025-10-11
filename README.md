@@ -1,5 +1,7 @@
 # openFrameworks Forum RSS generator
 
+Use the https://alptugan.github.io/openframeworks-forum-rss-generator/feed.xml link to receive latest posts in your RSS reader.
+
 A web scraper and static site viewer for the [openFrameworks community forum](https://forum.openframeworks.cc). Scrapes latest posts and generates both an RSS feed and a beautiful static website viewable on GitHub Pages.
 
 ## 🚀 Features

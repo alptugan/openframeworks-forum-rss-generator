@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Oct 2025 06:24:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 12:33:25 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Wierd behavior with ofSystemLoadDialog</title>
+      <link>https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</guid>
+      <pubDate>Thu, 09 Oct 2025 07:43:43 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>Wierd behavior with ofSystemLoadDialog</description>
+      <comments>https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</comments>
+    </item>
     <item>
       <title>Kamal Hinduja: How do you load and display images in Open Frameworks?</title>
       <link>https://forum.openframeworks.cc/t/kamal-hinduja-how-do-you-load-and-display-images-in-open-frameworks/45125</link>
@@ -43,15 +52,6 @@
       <author>v0id_scuy</author>
       <description>ofxLaser /example_HelloLaser / complie error</description>
       <comments>https://forum.openframeworks.cc/t/ofxlaser-example-hellolaser-complie-error/45129</comments>
-    </item>
-    <item>
-      <title>Wierd behavior with ofSystemLoadDialog</title>
-      <link>https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</guid>
-      <pubDate>Thu, 09 Oct 2025 07:43:43 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Wierd behavior with ofSystemLoadDialog</description>
-      <comments>https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</comments>
     </item>
     <item>
       <title>An attempt to make OF a cmake dependency</title>

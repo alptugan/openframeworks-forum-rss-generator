@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 12:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 18:25:24 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Ultraleap Addon</title>
+      <link>https://forum.openframeworks.cc/t/ultraleap-addon/45143</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ultraleap-addon/45143</guid>
+      <pubDate>Mon, 13 Oct 2025 16:23:57 GMT</pubDate>
+      <author>gerardo-pellicer</author>
+      <description>Ultraleap Addon</description>
+      <comments>https://forum.openframeworks.cc/t/ultraleap-addon/45143</comments>
+    </item>
     <item>
       <title>Wierd behavior with ofSystemLoadDialog</title>
       <link>https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</link>
@@ -268,15 +277,6 @@
       <author>Aleksander_Jakobsen</author>
       <description>How to use openframeworks in a command line?</description>
       <comments>https://forum.openframeworks.cc/t/how-to-use-openframeworks-in-a-command-line/44998</comments>
-    </item>
-    <item>
-      <title>RGFW as GLFW alternative</title>
-      <link>https://forum.openframeworks.cc/t/rgfw-as-glfw-alternative/44955</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/rgfw-as-glfw-alternative/44955</guid>
-      <pubDate>Sat, 16 Aug 2025 01:43:27 GMT</pubDate>
-      <author>dimitre</author>
-      <description>RGFW as GLFW alternative</description>
-      <comments>https://forum.openframeworks.cc/t/rgfw-as-glfw-alternative/44955</comments>
     </item>
   </channel>
 </rss>

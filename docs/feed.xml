@@ -5,7 +5,7 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2025 12:40:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 18:27:04 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
@@ -16,6 +16,15 @@
       <author>dimitre</author>
       <description>ofLibs (Apothecary alternative)</description>
       <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
+    </item>
+    <item>
+      <title>Postdoc (Interactive Media) @ MTU Cork School of Music</title>
+      <link>https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</guid>
+      <pubDate>Tue, 14 Oct 2025 14:29:50 GMT</pubDate>
+      <author>carthach</author>
+      <description>Postdoc (Interactive Media) @ MTU Cork School of Music</description>
+      <comments>https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</comments>
     </item>
     <item>
       <title>Ultraleap Addon</title>
@@ -268,15 +277,6 @@
       <author>v0id_scuy</author>
       <description>Automate the configuration of external library paths and related settings</description>
       <comments>https://forum.openframeworks.cc/t/automate-the-configuration-of-external-library-paths-and-related-settings/44994</comments>
-    </item>
-    <item>
-      <title>How to use openframeworks in a command line?</title>
-      <link>https://forum.openframeworks.cc/t/how-to-use-openframeworks-in-a-command-line/44998</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-to-use-openframeworks-in-a-command-line/44998</guid>
-      <pubDate>Sat, 30 Aug 2025 09:08:07 GMT</pubDate>
-      <author>Aleksander_Jakobsen</author>
-      <description>How to use openframeworks in a command line?</description>
-      <comments>https://forum.openframeworks.cc/t/how-to-use-openframeworks-in-a-command-line/44998</comments>
     </item>
   </channel>
 </rss>

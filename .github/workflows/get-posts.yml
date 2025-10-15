@@ -40,7 +40,20 @@ jobs:
           version: 9
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --no-frozen-lockfile
+
+      - name: Commit lockfile if updated
+        run: |
+          if ! git diff --quiet -- pnpm-lock.yaml; then
+            echo "Lockfile changed. Committing updated pnpm-lock.yaml"
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add pnpm-lock.yaml
+            git commit -m "chore(ci): sync pnpm lockfile [skip ci]"
+            git push origin HEAD:main
+          else
+            echo "Lockfile is up to date."
+          fi
 
       - name: Run scraper
         run: pnpm run scrape

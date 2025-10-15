@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Oct 2025 12:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 18:27:46 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>OF-RFC-002: Layer 1: OF Standalone Core</title>
+      <link>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</guid>
+      <pubDate>Fri, 26 Sep 2025 17:42:30 GMT</pubDate>
+      <author>burton</author>
+      <description>OF-RFC-002: Layer 1: OF Standalone Core</description>
+      <comments>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</comments>
+    </item>
     <item>
       <title>ofLibs (Apothecary alternative)</title>
       <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
@@ -61,15 +70,6 @@
       <author>stephanschulz</author>
       <description>macOS 12 + M1 + VScode</description>
       <comments>https://forum.openframeworks.cc/t/macos-12-m1-vscode/43843</comments>
-    </item>
-    <item>
-      <title>OF-RFC-002: Layer 1: OF Standalone Core</title>
-      <link>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</guid>
-      <pubDate>Fri, 26 Sep 2025 17:42:30 GMT</pubDate>
-      <author>burton</author>
-      <description>OF-RFC-002: Layer 1: OF Standalone Core</description>
-      <comments>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</comments>
     </item>
     <item>
       <title>ofxLaser /example_HelloLaser / complie error</title>

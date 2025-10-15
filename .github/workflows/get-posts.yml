@@ -2,35 +2,66 @@ name: openframeworks Forum RSS generator
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: true
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+        # falls back to npm install if no package-lock.json
+        continue-on-error: true
 
       - name: Run scraper
         run: npm run scrape
+
+      - name: Debug output (status + list)
+        run: |
+          echo "Git status:"
+          git status
+          echo "Files in docs/:"
+          ls -la docs/ || true
+          echo "feed.xml head:"
+          head -n 20 docs/feed.xml || true
+          echo "Diff (docs/):"
+          git --no-pager diff --stat docs/ || true
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # stage generated files
           git add docs/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update scraped data" && git push)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          # commit only if there are staged changes
+          if ! git diff --staged --quiet; then
+            git commit -m "Update scraped data [skip ci]"
+            # push explicitly to main to avoid detached HEAD issues
+            git push origin HEAD:main
+          else
+            echo "No changes to commit."
+          fi

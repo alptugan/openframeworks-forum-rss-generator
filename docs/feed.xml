@@ -5,26 +5,35 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Oct 2025 15:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 08:05:29 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>OF-RFC-002: Layer 1: OF Standalone Core</title>
-      <link>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</guid>
-      <pubDate>Fri, 26 Sep 2025 17:42:30 GMT</pubDate>
-      <author>burton</author>
-      <description>OF-RFC-002: Layer 1: OF Standalone Core</description>
-      <comments>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</comments>
+      <title>ofLibs (Apothecary alternative)</title>
+      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
+      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
+      <author>dimitre</author>
+      <description>ofLibs (Apothecary alternative)</description>
+      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
     </item>
     <item>
-      <title>ofxLaser /example_HelloLaser / complie error</title>
-      <link>https://forum.openframeworks.cc/t/ofxlaser-example-hellolaser-complie-error/45129</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-example-hellolaser-complie-error/45129</guid>
-      <pubDate>Thu, 09 Oct 2025 09:51:01 GMT</pubDate>
-      <author>v0id_scuy</author>
-      <description>ofxLaser /example_HelloLaser / complie error</description>
-      <comments>https://forum.openframeworks.cc/t/ofxlaser-example-hellolaser-complie-error/45129</comments>
+      <title>Postdoc (Interactive Media) @ MTU Cork School of Music</title>
+      <link>https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</guid>
+      <pubDate>Tue, 14 Oct 2025 14:29:50 GMT</pubDate>
+      <author>carthach</author>
+      <description>Postdoc (Interactive Media) @ MTU Cork School of Music</description>
+      <comments>https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</comments>
+    </item>
+    <item>
+      <title>Ultraleap Addon</title>
+      <link>https://forum.openframeworks.cc/t/ultraleap-addon/45143</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ultraleap-addon/45143</guid>
+      <pubDate>Mon, 13 Oct 2025 16:23:57 GMT</pubDate>
+      <author>gerardo-pellicer</author>
+      <description>Ultraleap Addon</description>
+      <comments>https://forum.openframeworks.cc/t/ultraleap-addon/45143</comments>
     </item>
     <item>
       <title>Wierd behavior with ofSystemLoadDialog</title>
@@ -45,24 +54,6 @@
       <comments>https://forum.openframeworks.cc/t/kamal-hinduja-how-do-you-load-and-display-images-in-open-frameworks/45125</comments>
     </item>
     <item>
-      <title>An attempt to make OF a cmake dependency</title>
-      <link>https://forum.openframeworks.cc/t/an-attempt-to-make-of-a-cmake-dependency/43413</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/an-attempt-to-make-of-a-cmake-dependency/43413</guid>
-      <pubDate>Thu, 18 Apr 2024 09:45:48 GMT</pubDate>
-      <author>kritzikratzi</author>
-      <description>An attempt to make OF a cmake dependency</description>
-      <comments>https://forum.openframeworks.cc/t/an-attempt-to-make-of-a-cmake-dependency/43413</comments>
-    </item>
-    <item>
-      <title>ofLibs (Apothecary alternative)</title>
-      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
-      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofLibs (Apothecary alternative)</description>
-      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
-    </item>
-    <item>
       <title>macOS 12 + M1 + VScode</title>
       <link>https://forum.openframeworks.cc/t/macos-12-m1-vscode/43843</link>
       <guid isPermaLink="true">https://forum.openframeworks.cc/t/macos-12-m1-vscode/43843</guid>
@@ -70,6 +61,33 @@
       <author>stephanschulz</author>
       <description>macOS 12 + M1 + VScode</description>
       <comments>https://forum.openframeworks.cc/t/macos-12-m1-vscode/43843</comments>
+    </item>
+    <item>
+      <title>OF-RFC-002: Layer 1: OF Standalone Core</title>
+      <link>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</guid>
+      <pubDate>Fri, 26 Sep 2025 17:42:30 GMT</pubDate>
+      <author>burton</author>
+      <description>OF-RFC-002: Layer 1: OF Standalone Core</description>
+      <comments>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</comments>
+    </item>
+    <item>
+      <title>ofxLaser /example_HelloLaser / complie error</title>
+      <link>https://forum.openframeworks.cc/t/ofxlaser-example-hellolaser-complie-error/45129</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-example-hellolaser-complie-error/45129</guid>
+      <pubDate>Thu, 09 Oct 2025 09:51:01 GMT</pubDate>
+      <author>v0id_scuy</author>
+      <description>ofxLaser /example_HelloLaser / complie error</description>
+      <comments>https://forum.openframeworks.cc/t/ofxlaser-example-hellolaser-complie-error/45129</comments>
+    </item>
+    <item>
+      <title>An attempt to make OF a cmake dependency</title>
+      <link>https://forum.openframeworks.cc/t/an-attempt-to-make-of-a-cmake-dependency/43413</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/an-attempt-to-make-of-a-cmake-dependency/43413</guid>
+      <pubDate>Thu, 18 Apr 2024 09:45:48 GMT</pubDate>
+      <author>kritzikratzi</author>
+      <description>An attempt to make OF a cmake dependency</description>
+      <comments>https://forum.openframeworks.cc/t/an-attempt-to-make-of-a-cmake-dependency/43413</comments>
     </item>
     <item>
       <title>Installing of - mingw-w64-x86_64-FreeImage</title>
@@ -259,24 +277,6 @@
       <author>v0id_scuy</author>
       <description>Automate the configuration of external library paths and related settings</description>
       <comments>https://forum.openframeworks.cc/t/automate-the-configuration-of-external-library-paths-and-related-settings/44994</comments>
-    </item>
-    <item>
-      <title>How to use openframeworks in a command line?</title>
-      <link>https://forum.openframeworks.cc/t/how-to-use-openframeworks-in-a-command-line/44998</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-to-use-openframeworks-in-a-command-line/44998</guid>
-      <pubDate>Sat, 30 Aug 2025 09:08:07 GMT</pubDate>
-      <author>Aleksander_Jakobsen</author>
-      <description>How to use openframeworks in a command line?</description>
-      <comments>https://forum.openframeworks.cc/t/how-to-use-openframeworks-in-a-command-line/44998</comments>
-    </item>
-    <item>
-      <title>RGFW as GLFW alternative</title>
-      <link>https://forum.openframeworks.cc/t/rgfw-as-glfw-alternative/44955</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/rgfw-as-glfw-alternative/44955</guid>
-      <pubDate>Sat, 16 Aug 2025 01:43:27 GMT</pubDate>
-      <author>dimitre</author>
-      <description>RGFW as GLFW alternative</description>
-      <comments>https://forum.openframeworks.cc/t/rgfw-as-glfw-alternative/44955</comments>
     </item>
   </channel>
 </rss>

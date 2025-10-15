@@ -151,19 +151,6 @@ https://<username>.github.io/<repository-name>/feed.xml
 
 Compatible with all RSS readers (Feedly, NewsBlur, etc.)
 
-## 🎨 Customization
-
-### Modify Scraper
-Edit `backend/scraper.js` to:
-- Change scraping frequency
-- Add more data fields
-- Scrape different pages
-
-### Customize Website
-Edit files in `docs/`:
-- `index.html` - Structure
-- `css/style.css` - Styling
-- `js/app.js` - Functionality
 
 ## 📝 API
 
@@ -184,28 +171,3 @@ https://forum.openframeworks.cc/latest.json
 - Modern CSS (Grid, Flexbox)
 - No framework dependencies
 
-## 📄 License
-
-ISC
-
-## 👨‍💻 Author
-
-Alp Tugan
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📞 Support
-
-If you have any questions or need help, please open an issue.
-
----
-
-Made with ❤️ for the openFrameworks community

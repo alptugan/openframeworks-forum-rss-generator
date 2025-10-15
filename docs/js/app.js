@@ -64,19 +64,26 @@ function displayPosts(posts) {
         .map(
             (post) => `
         <div class="post-card">
-            <div class="post-title">
-                <a href="${post.url}" target="_blank">${escapeHtml(post.title)}</a>
+            <div class="post-main">
+                <div class="post-title">
+                    <a href="${post.url}" target="_blank">${escapeHtml(post.title)}</a>
+                </div>
+                <div class="post-meta">
+                    <span>👤 <span class="post-author">${escapeHtml(post.author)}</span></span>
+                    <span class="stat">💬 ${post.replies} replies</span>
+                    <span class="stat">👁️ ${post.views} views</span>
+                    ${post.pinned ? '<span class="stat">📌 Pinned</span>' : ""}
+                </div>
             </div>
-            <div class="post-meta">
-                <span>👤 <span class="post-author">${escapeHtml(post.author)}</span></span>
-            </div>
-            <div class="post-stats">
-                <span class="stat">💬 ${post.replies} replies</span>
-                <span class="stat">👁️ ${post.views} views</span>
-                ${post.pinned ? '<span class="stat">📌 Pinned</span>' : ""}
-            </div>
-            <div class="post-date">
-                📅 ${formatDate(post.created_at)}
+            <div class="post-dates">
+                <div class="post-date">
+                    <div class="date-label">Last activity</div>
+                    <div class="date-value">${formatDate(post.last_posted_at)}</div>
+                </div>
+                <div class="post-date">
+                    <div class="date-label">Created</div>
+                    <div class="date-value">${formatDate(post.created_at)}</div>
+                </div>
             </div>
         </div>
     `
@@ -111,5 +118,54 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
+// Theme Toggle Functionality
+function initThemeToggle() {
+    const themeToggle = document.getElementById("themeToggle");
+    const themeIcon = themeToggle.querySelector(".theme-icon");
+    const html = document.documentElement;
+
+    // Check for saved theme preference or default to system preference
+    const savedTheme = localStorage.getItem("theme");
+
+    if (savedTheme) {
+        html.setAttribute("data-theme", savedTheme);
+        updateThemeIcon(savedTheme);
+    } else {
+        // Check system preference
+        const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        if (prefersDark) {
+            updateThemeIcon("dark");
+        }
+    }
+
+    // Toggle theme on button click
+    themeToggle.addEventListener("click", () => {
+        const currentTheme = html.getAttribute("data-theme");
+        const newTheme = currentTheme === "dark" ? "light" : "dark";
+
+        html.setAttribute("data-theme", newTheme);
+        localStorage.setItem("theme", newTheme);
+        updateThemeIcon(newTheme);
+    });
+
+    function updateThemeIcon(theme) {
+        if (theme === "dark") {
+            themeIcon.textContent = "☀️";
+        } else {
+            themeIcon.textContent = "🌙";
+        }
+    }
+
+    // Listen for system theme changes when no manual preference is set
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
+        if (!localStorage.getItem("theme")) {
+            updateThemeIcon(e.matches ? "dark" : "light");
+        }
+    });
+}
+
 // Load posts when page loads
-document.addEventListener("DOMContentLoaded", loadPosts);
+document.addEventListener("DOMContentLoaded", () => {
+    loadPosts();
+    initThemeToggle();
+});

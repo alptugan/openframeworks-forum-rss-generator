@@ -9,10 +9,10 @@ importers:
   .:
     dependencies:
       axios:
-        specifier: ^1.12.2
+        specifier: ^1.6.0
         version: 1.12.2
       cheerio:
-        specifier: ^1.1.2
+        specifier: ^1.0.0-rc.12
         version: 1.1.2
 
 packages:

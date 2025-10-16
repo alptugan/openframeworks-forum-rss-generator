@@ -78,41 +78,81 @@ body {
     position: relative;
 }
 
-/* Theme Toggle Button */
-.theme-toggle {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    width: 50px;
-    height: 50px;
+/* Theme toggle switch inside header */
+.theme-switch {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+}
+
+.theme-switch input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.theme-switch label {
+    display: inline-block;
+    position: relative;
+    width: 56px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.switch-track {
+    position: absolute;
+    inset: 0;
+    border-radius: 999px;
+    background: var(--border-color);
+    transition: background-color 0.2s ease;
+}
+
+.switch-thumb {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 24px;
+    height: 24px;
     border-radius: 50%;
     background: var(--card-bg);
-    border: 2px solid var(--border-color);
-    cursor: pointer;
+    box-shadow: 0 2px 6px var(--shadow-light);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.switch-icons {
+    position: absolute;
+    top: 50%;
+    left: 8px;
+    right: 8px;
+    transform: translateY(-50%);
     display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.5rem;
-    transition: all 0.3s ease;
-    box-shadow: 0 2px 8px var(--shadow-light);
-    z-index: 1000;
+    justify-content: space-between;
+    pointer-events: none;
+    font-size: 14px;
 }
 
-.theme-toggle:hover {
-    transform: scale(1.1) rotate(15deg);
-    border-color: var(--primary-color);
-    box-shadow: 0 4px 12px rgba(244, 166, 136, 0.3);
+/* Slightly nudge sun icon right */
+.theme-switch .icon-sun {
+    display: inline-block;
+    transform: translateX(3px);
 }
 
-.theme-toggle:active {
-    transform: scale(0.95);
+.theme-switch .icon-moon {
+    display: inline-block;
+    transform: translateX(-2px);
 }
 
-.theme-icon {
-    transition: transform 0.3s ease;
+.theme-switch input:checked + label .switch-track {
+    background: var(--primary-color);
+}
+
+.theme-switch input:checked + label .switch-thumb {
+    transform: translateX(26px);
 }
 
 header {
+    position: relative;
     text-align: center;
     padding: 40px 20px;
     margin-bottom: 30px;
@@ -127,6 +167,15 @@ h1 {
     font-size: 2.5rem;
     margin-bottom: 10px;
     color: var(--primary-color);
+}
+
+/* openFrameworks logo in title (image) */
+.of-logo {
+    height: 1.2em;
+    width: auto;
+    margin-right: 0.4rem;
+    vertical-align: -0.2em;
+    display: inline-block;
 }
 
 .subtitle {

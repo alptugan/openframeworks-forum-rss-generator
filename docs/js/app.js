@@ -120,8 +120,7 @@ function escapeHtml(text) {
 
 // Theme Toggle Functionality
 function initThemeToggle() {
-    const themeToggle = document.getElementById("themeToggle");
-    const themeIcon = themeToggle.querySelector(".theme-icon");
+    const toggleInput = document.getElementById("themeToggle");
     const html = document.documentElement;
 
     // Check for saved theme preference or default to system preference
@@ -129,37 +128,26 @@ function initThemeToggle() {
 
     if (savedTheme) {
         html.setAttribute("data-theme", savedTheme);
-        updateThemeIcon(savedTheme);
+        toggleInput.checked = savedTheme === "dark";
     } else {
         // Check system preference
         const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-        if (prefersDark) {
-            updateThemeIcon("dark");
-        }
+        toggleInput.checked = prefersDark;
+        if (prefersDark) html.setAttribute("data-theme", "dark");
     }
 
     // Toggle theme on button click
-    themeToggle.addEventListener("click", () => {
-        const currentTheme = html.getAttribute("data-theme");
-        const newTheme = currentTheme === "dark" ? "light" : "dark";
-
+    toggleInput.addEventListener("change", () => {
+        const newTheme = toggleInput.checked ? "dark" : "light";
         html.setAttribute("data-theme", newTheme);
         localStorage.setItem("theme", newTheme);
-        updateThemeIcon(newTheme);
     });
-
-    function updateThemeIcon(theme) {
-        if (theme === "dark") {
-            themeIcon.textContent = "☀️";
-        } else {
-            themeIcon.textContent = "🌙";
-        }
-    }
 
     // Listen for system theme changes when no manual preference is set
     window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
         if (!localStorage.getItem("theme")) {
-            updateThemeIcon(e.matches ? "dark" : "light");
+            toggleInput.checked = e.matches;
+            html.setAttribute("data-theme", e.matches ? "dark" : "light");
         }
     });
 }

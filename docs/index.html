@@ -11,12 +11,23 @@
 
 <body>
     <div class="container">
-        <button id="themeToggle" class="theme-toggle" aria-label="Toggle dark mode">
-            <span class="theme-icon">🌙</span>
-        </button>
-
         <header>
-            <h1>🎨 openFrameworks Forum</h1>
+            <h1>
+                <img src="https://forum.openframeworks.cc/uploads/default/original/2X/7/75b52b04984d6a0a060f48bc8523e9e6deef1618.svg"
+                    alt="openFrameworks logo" class="of-logo" decoding="async" loading="lazy" />
+                openFrameworks Forum
+            </h1>
+            <div class="theme-switch" title="Toggle dark mode">
+                <input type="checkbox" id="themeToggle" aria-label="Toggle dark mode" />
+                <label for="themeToggle">
+                    <span class="switch-track"></span>
+                    <span class="switch-thumb"></span>
+                    <span class="switch-icons" aria-hidden="true">
+                        <span class="icon-moon">🌙</span>
+                        <span class="icon-sun">☀️</span>
+                    </span>
+                </label>
+            </div>
             <p class="subtitle">Latest Community Posts</p>
             <div class="header-actions">
                 <a href="./feed.xml" class="rss-button" target="_blank">

@@ -1,6 +1,9 @@
 # openFrameworks Forum RSS generator
 
-Use the https://alptugan.github.io/openframeworks-forum-rss-generator/feed.xml link to receive latest posts in your RSS reader.
+## 🔗 Quick Links
+View the xml [link](https://alptugan.github.io/openframeworks-forum-rss-generator/feed.xml) to receive latest posts in your RSS reader app.
+
+View the static site [link](https://alptugan.github.io/openframeworks-forum-rss-generator/) to browse latest posts in a beautiful UI.
 
 A web scraper and static site viewer for the [openFrameworks community forum](https://forum.openframeworks.cc). Scrapes latest posts and generates both an RSS feed and a beautiful static website viewable on GitHub Pages.
 
@@ -84,63 +87,6 @@ pnpm dev
 npm run dev
 ```
 
-## 🚀 Deploy to GitHub Pages
-
-1. Push your repository to GitHub
-
-2. Go to repository **Settings** → **Pages**
-
-3. Under **Source**, select:
-   - Branch: `main` (or your default branch)
-   - Folder: `/docs`
-
-4. Click **Save**
-
-5. Your site will be available at:
-   ```
-   https://<username>.github.io/<repository-name>/
-   ```
-
-6. **Set up automated scraping** (optional):
-   - Create a GitHub Action to run the scraper daily
-   - See `.github/workflows/scrape.yml` example below
-
-## 🤖 Automated Scraping (GitHub Actions)
-
-Create `.github/workflows/scrape.yml`:
-
-```yaml
-name: openframeworks Forum RSS generator
-
-on:
-  schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
-  workflow_dispatch:  # Allow manual trigger
-
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-          
-      - name: Install dependencies
-        run: npm install
-        
-      - name: Run scraper
-        run: npm run scrape
-        
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add docs/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update scraped data" && git push)
-```
 
 ## 📡 RSS Feed
 

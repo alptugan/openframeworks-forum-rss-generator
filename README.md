@@ -1,9 +1,13 @@
 # openFrameworks Forum RSS generator
 
 ## 🔗 Quick Links
-View the xml [link](https://alptugan.github.io/openframeworks-forum-rss-generator/feed.xml) to receive latest posts in your RSS reader app.
+View the `feed.xml` [link](https://alptugan.github.io/openframeworks-forum-rss-generator/feed.xml) to receive latest posts in your RSS reader app.
+
+
+[![RSS](https://img.shields.io/badge/Openframeworks-RSS-orange?logo=rss)](https://alptugan.github.io/openframeworks-forum-rss-generator/feed.xml)
 
 View the static site [link](https://alptugan.github.io/openframeworks-forum-rss-generator/) to browse latest posts in a beautiful UI.
+
 
 A web scraper and static site viewer for the [openFrameworks community forum](https://forum.openframeworks.cc). Scrapes latest posts and generates both an RSS feed and a beautiful static website viewable on GitHub Pages.
 
@@ -20,7 +24,7 @@ A web scraper and static site viewer for the [openFrameworks community forum](ht
 ## 📁 Project Structure
 
 ```
-openframeworks-forum-rss-generator/
+openframeworks-forum-rss-generator/q
 ├── backend/
 │   └── scraper.js          # Node.js scraper script
 ├── docs/                   # GitHub Pages static site

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Oct 2025 18:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 01:17:37 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Which platforms do you use openFrameworks on?</title>
+      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
+      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
+      <author>dimitre</author>
+      <description>Which platforms do you use openFrameworks on?</description>
+      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
+    </item>
     <item>
       <title>ofLibs (Apothecary alternative)</title>
       <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
@@ -268,15 +277,6 @@
       <author>HexAdventure</author>
       <description>Mac OS Static Build</description>
       <comments>https://forum.openframeworks.cc/t/mac-os-static-build/45032</comments>
-    </item>
-    <item>
-      <title>Automate the configuration of external library paths and related settings</title>
-      <link>https://forum.openframeworks.cc/t/automate-the-configuration-of-external-library-paths-and-related-settings/44994</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/automate-the-configuration-of-external-library-paths-and-related-settings/44994</guid>
-      <pubDate>Fri, 29 Aug 2025 06:40:05 GMT</pubDate>
-      <author>v0id_scuy</author>
-      <description>Automate the configuration of external library paths and related settings</description>
-      <comments>https://forum.openframeworks.cc/t/automate-the-configuration-of-external-library-paths-and-related-settings/44994</comments>
     </item>
   </channel>
 </rss>

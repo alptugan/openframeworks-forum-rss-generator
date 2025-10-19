@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Oct 2025 12:34:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 18:23:37 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Can&apos;t Run OF on MacOS</title>
+      <link>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</guid>
+      <pubDate>Sun, 19 Oct 2025 18:03:37 GMT</pubDate>
+      <author>friendlyspinach</author>
+      <description>Can&apos;t Run OF on MacOS</description>
+      <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
+    </item>
+    <item>
+      <title>New addon: ofxSurfingCanny</title>
+      <link>https://forum.openframeworks.cc/t/new-addon-ofxsurfingcanny/45164</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxsurfingcanny/45164</guid>
+      <pubDate>Sun, 19 Oct 2025 18:03:12 GMT</pubDate>
+      <author>moebiussurfing</author>
+      <description>New addon: ofxSurfingCanny</description>
+      <comments>https://forum.openframeworks.cc/t/new-addon-ofxsurfingcanny/45164</comments>
+    </item>
     <item>
       <title>Which platforms do you use openFrameworks on?</title>
       <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
@@ -259,24 +277,6 @@
       <author>NickHardeman</author>
       <description>ofMaterial with custom normal mapping and displacement</description>
       <comments>https://forum.openframeworks.cc/t/ofmaterial-with-custom-normal-mapping-and-displacement/40467</comments>
-    </item>
-    <item>
-      <title>Looking for work</title>
-      <link>https://forum.openframeworks.cc/t/looking-for-work/45035</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/looking-for-work/45035</guid>
-      <pubDate>Mon, 08 Sep 2025 21:24:47 GMT</pubDate>
-      <author>roymacdonald</author>
-      <description>Looking for work</description>
-      <comments>https://forum.openframeworks.cc/t/looking-for-work/45035</comments>
-    </item>
-    <item>
-      <title>Mac OS Static Build</title>
-      <link>https://forum.openframeworks.cc/t/mac-os-static-build/45032</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/mac-os-static-build/45032</guid>
-      <pubDate>Sun, 07 Sep 2025 11:18:24 GMT</pubDate>
-      <author>HexAdventure</author>
-      <description>Mac OS Static Build</description>
-      <comments>https://forum.openframeworks.cc/t/mac-os-static-build/45032</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Oct 2025 06:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 12:39:28 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofSoundGetSpectrum() not working (Mac only)</title>
+      <link>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-working-mac-only/44904</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-working-mac-only/44904</guid>
+      <pubDate>Sat, 02 Aug 2025 02:31:28 GMT</pubDate>
+      <author>stef242</author>
+      <description>ofSoundGetSpectrum() not working (Mac only)</description>
+      <comments>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-working-mac-only/44904</comments>
+    </item>
     <item>
       <title>Can&apos;t Run OF on MacOS</title>
       <link>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</link>
@@ -268,15 +277,6 @@
       <author>bemoregt</author>
       <description>I made of SAM model&apos;s segmentation using OF, At Last</description>
       <comments>https://forum.openframeworks.cc/t/i-made-of-sam-models-segmentation-using-of-at-last/45045</comments>
-    </item>
-    <item>
-      <title>ofMaterial with custom normal mapping and displacement</title>
-      <link>https://forum.openframeworks.cc/t/ofmaterial-with-custom-normal-mapping-and-displacement/40467</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofmaterial-with-custom-normal-mapping-and-displacement/40467</guid>
-      <pubDate>Fri, 23 Sep 2022 14:41:13 GMT</pubDate>
-      <author>NickHardeman</author>
-      <description>ofMaterial with custom normal mapping and displacement</description>
-      <comments>https://forum.openframeworks.cc/t/ofmaterial-with-custom-normal-mapping-and-displacement/40467</comments>
     </item>
   </channel>
 </rss>

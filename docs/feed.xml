@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Oct 2025 12:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 18:28:35 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Why does my project build everything from scratch every time I compile it</title>
+      <link>https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</guid>
+      <pubDate>Sat, 27 Sep 2025 08:23:53 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>Why does my project build everything from scratch every time I compile it</description>
+      <comments>https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</comments>
+    </item>
     <item>
       <title>ofSoundGetSpectrum() not working (Mac only)</title>
       <link>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-working-mac-only/44904</link>
@@ -187,15 +196,6 @@
       <author>Sam_McElhinney_io</author>
       <description>Framework &apos;AGL&apos; not found</description>
       <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
-    </item>
-    <item>
-      <title>Why does my project build everything from scratch every time I compile it</title>
-      <link>https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</guid>
-      <pubDate>Sat, 27 Sep 2025 08:23:53 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Why does my project build everything from scratch every time I compile it</description>
-      <comments>https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</comments>
     </item>
     <item>
       <title>OF Steering Comittee</title>

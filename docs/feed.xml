@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 12:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 18:26:01 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Which platforms do you use openFrameworks on?</title>
+      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
+      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
+      <author>dimitre</author>
+      <description>Which platforms do you use openFrameworks on?</description>
+      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
+    </item>
     <item>
       <title>Why does my project build everything from scratch every time I compile it</title>
       <link>https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</link>
@@ -52,15 +61,6 @@
       <author>moebiussurfing</author>
       <description>New addon: ofxSurfingCanny</description>
       <comments>https://forum.openframeworks.cc/t/new-addon-ofxsurfingcanny/45164</comments>
-    </item>
-    <item>
-      <title>Which platforms do you use openFrameworks on?</title>
-      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
-      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
-      <author>dimitre</author>
-      <description>Which platforms do you use openFrameworks on?</description>
-      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
     </item>
     <item>
       <title>OF-RFC-002: Layer 1: OF Standalone Core</title>

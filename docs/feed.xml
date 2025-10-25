@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Oct 2025 12:33:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 18:23:29 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Which platforms do you use openFrameworks on?</title>
+      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
+      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
+      <author>dimitre</author>
+      <description>Which platforms do you use openFrameworks on?</description>
+      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
+    </item>
     <item>
       <title>capsLock adds previous key char to string</title>
       <link>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</link>
@@ -25,15 +34,6 @@
       <author>friendlyspinach</author>
       <description>Can&apos;t Run OF on MacOS</description>
       <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
-    </item>
-    <item>
-      <title>Which platforms do you use openFrameworks on?</title>
-      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
-      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
-      <author>dimitre</author>
-      <description>Which platforms do you use openFrameworks on?</description>
-      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
     </item>
     <item>
       <title>Why does my project build everything from scratch every time I compile it</title>

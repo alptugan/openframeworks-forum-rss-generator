@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Oct 2025 18:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 01:20:36 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Can&apos;t Run OF on MacOS</title>
+      <link>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</guid>
+      <pubDate>Sun, 19 Oct 2025 18:03:37 GMT</pubDate>
+      <author>friendlyspinach</author>
+      <description>Can&apos;t Run OF on MacOS</description>
+      <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
+    </item>
+    <item>
+      <title>capsLock adds previous key char to string</title>
+      <link>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</guid>
+      <pubDate>Fri, 24 Oct 2025 19:02:36 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>capsLock adds previous key char to string</description>
+      <comments>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</comments>
+    </item>
     <item>
       <title>Which platforms do you use openFrameworks on?</title>
       <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
@@ -43,15 +61,6 @@
       <author>stef242</author>
       <description>ofSoundGetSpectrum() not working (Mac only)</description>
       <comments>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-working-mac-only/44904</comments>
-    </item>
-    <item>
-      <title>Can&apos;t Run OF on MacOS</title>
-      <link>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</guid>
-      <pubDate>Sun, 19 Oct 2025 18:03:37 GMT</pubDate>
-      <author>friendlyspinach</author>
-      <description>Can&apos;t Run OF on MacOS</description>
-      <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
     </item>
     <item>
       <title>New addon: ofxSurfingCanny</title>
@@ -268,15 +277,6 @@
       <author>KobbyAppiah</author>
       <description>ofSetVerticalSync-- what does it do exactly?</description>
       <comments>https://forum.openframeworks.cc/t/ofsetverticalsync-what-does-it-do-exactly/13892</comments>
-    </item>
-    <item>
-      <title>I made of SAM model&apos;s segmentation using OF, At Last</title>
-      <link>https://forum.openframeworks.cc/t/i-made-of-sam-models-segmentation-using-of-at-last/45045</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/i-made-of-sam-models-segmentation-using-of-at-last/45045</guid>
-      <pubDate>Fri, 12 Sep 2025 06:30:53 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>I made of SAM model&apos;s segmentation using OF, At Last</description>
-      <comments>https://forum.openframeworks.cc/t/i-made-of-sam-models-segmentation-using-of-at-last/45045</comments>
     </item>
   </channel>
 </rss>

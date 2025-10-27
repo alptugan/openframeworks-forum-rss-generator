@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2025 06:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 12:40:16 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Can&apos;t Run OF on MacOS</title>
-      <link>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</guid>
-      <pubDate>Sun, 19 Oct 2025 18:03:37 GMT</pubDate>
-      <author>friendlyspinach</author>
-      <description>Can&apos;t Run OF on MacOS</description>
-      <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
-    </item>
     <item>
       <title>Which platforms do you use openFrameworks on?</title>
       <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
@@ -25,6 +16,15 @@
       <author>dimitre</author>
       <description>Which platforms do you use openFrameworks on?</description>
       <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
+    </item>
+    <item>
+      <title>Can&apos;t Run OF on MacOS</title>
+      <link>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</guid>
+      <pubDate>Sun, 19 Oct 2025 18:03:37 GMT</pubDate>
+      <author>friendlyspinach</author>
+      <description>Can&apos;t Run OF on MacOS</description>
+      <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
     </item>
     <item>
       <title>capsLock adds previous key char to string</title>

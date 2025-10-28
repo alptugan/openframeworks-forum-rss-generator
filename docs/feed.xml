@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2025 12:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:28:44 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</title>
+      <link>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</guid>
+      <pubDate>Tue, 28 Oct 2025 18:20:26 GMT</pubDate>
+      <author>Johannes_Valbjorn</author>
+      <description>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</description>
+      <comments>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</comments>
+    </item>
     <item>
       <title>capsLock adds previous key char to string</title>
       <link>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</link>
@@ -268,15 +277,6 @@
       <author>bemoregt</author>
       <description>I&apos;ve made of Anaglyph Imaging App using OF</description>
       <comments>https://forum.openframeworks.cc/t/ive-made-of-anaglyph-imaging-app-using-of/45053</comments>
-    </item>
-    <item>
-      <title>ofSetVerticalSync-- what does it do exactly?</title>
-      <link>https://forum.openframeworks.cc/t/ofsetverticalsync-what-does-it-do-exactly/13892</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofsetverticalsync-what-does-it-do-exactly/13892</guid>
-      <pubDate>Fri, 06 Dec 2013 20:33:58 GMT</pubDate>
-      <author>KobbyAppiah</author>
-      <description>ofSetVerticalSync-- what does it do exactly?</description>
-      <comments>https://forum.openframeworks.cc/t/ofsetverticalsync-what-does-it-do-exactly/13892</comments>
     </item>
   </channel>
 </rss>

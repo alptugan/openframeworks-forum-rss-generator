@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Oct 2025 12:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 18:27:23 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</title>
-      <link>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</guid>
-      <pubDate>Tue, 28 Oct 2025 18:20:26 GMT</pubDate>
-      <author>Johannes_Valbjorn</author>
-      <description>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</description>
-      <comments>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</comments>
-    </item>
     <item>
       <title>openFrameworks not working on production PC</title>
       <link>https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</link>
@@ -25,6 +16,15 @@
       <author>jeffrey9700</author>
       <description>openFrameworks not working on production PC</description>
       <comments>https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</comments>
+    </item>
+    <item>
+      <title>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</title>
+      <link>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</guid>
+      <pubDate>Tue, 28 Oct 2025 18:20:26 GMT</pubDate>
+      <author>Johannes_Valbjorn</author>
+      <description>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</description>
+      <comments>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</comments>
     </item>
     <item>
       <title>capsLock adds previous key char to string</title>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Oct 2025 18:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 01:24:30 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>openFrameworks not working on production PC</title>
+      <link>https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</guid>
+      <pubDate>Thu, 30 Oct 2025 21:22:03 GMT</pubDate>
+      <author>jeffrey9700</author>
+      <description>openFrameworks not working on production PC</description>
+      <comments>https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</comments>
+    </item>
     <item>
       <title>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</title>
       <link>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</link>
@@ -268,15 +277,6 @@
       <author>alexandrosdrymonitis</author>
       <description>Error: expected identifier before ‘&amp;’ token</description>
       <comments>https://forum.openframeworks.cc/t/error-expected-identifier-before-token/45055</comments>
-    </item>
-    <item>
-      <title>I&apos;ve made of Anaglyph Imaging App using OF</title>
-      <link>https://forum.openframeworks.cc/t/ive-made-of-anaglyph-imaging-app-using-of/45053</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ive-made-of-anaglyph-imaging-app-using-of/45053</guid>
-      <pubDate>Mon, 15 Sep 2025 07:17:49 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>I&apos;ve made of Anaglyph Imaging App using OF</description>
-      <comments>https://forum.openframeworks.cc/t/ive-made-of-anaglyph-imaging-app-using-of/45053</comments>
     </item>
   </channel>
 </rss>

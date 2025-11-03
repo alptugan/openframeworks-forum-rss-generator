@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Nov 2025 06:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 12:39:49 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Is there a live environment?</title>
+      <link>https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</guid>
+      <pubDate>Sun, 21 May 2023 09:02:02 GMT</pubDate>
+      <author>08_objekt</author>
+      <description>Is there a live environment?</description>
+      <comments>https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</comments>
+    </item>
     <item>
       <title>openFrameworks not working on production PC</title>
       <link>https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</link>
@@ -268,15 +277,6 @@
       <author>Sam_McElhinney_io</author>
       <description>Draw part of ofPolyline</description>
       <comments>https://forum.openframeworks.cc/t/draw-part-of-ofpolyline/45063</comments>
-    </item>
-    <item>
-      <title>Error: expected identifier before ‘&amp;’ token</title>
-      <link>https://forum.openframeworks.cc/t/error-expected-identifier-before-token/45055</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/error-expected-identifier-before-token/45055</guid>
-      <pubDate>Mon, 15 Sep 2025 11:01:01 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Error: expected identifier before ‘&amp;’ token</description>
-      <comments>https://forum.openframeworks.cc/t/error-expected-identifier-before-token/45055</comments>
     </item>
   </channel>
 </rss>

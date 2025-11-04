@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Nov 2025 12:41:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 18:27:40 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Face detection with neural networks</title>
+      <link>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</guid>
+      <pubDate>Tue, 04 Nov 2025 16:00:01 GMT</pubDate>
+      <author>brunovianna</author>
+      <description>Face detection with neural networks</description>
+      <comments>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</comments>
+    </item>
+    <item>
+      <title>Using leap motion through python+OSC</title>
+      <link>https://forum.openframeworks.cc/t/using-leap-motion-through-python-osc/45208</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/using-leap-motion-through-python-osc/45208</guid>
+      <pubDate>Tue, 04 Nov 2025 15:39:26 GMT</pubDate>
+      <author>brunovianna</author>
+      <description>Using leap motion through python+OSC</description>
+      <comments>https://forum.openframeworks.cc/t/using-leap-motion-through-python-osc/45208</comments>
+    </item>
     <item>
       <title>Emscripten not working on MacOS arm</title>
       <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
@@ -259,24 +277,6 @@
       <author>burton</author>
       <description>OF-RFC-001: Global Architecture: a layered approach</description>
       <comments>https://forum.openframeworks.cc/t/of-rfc-001-global-architecture-a-layered-approach/45087</comments>
-    </item>
-    <item>
-      <title>New addon: ofxSurfingDepthMap</title>
-      <link>https://forum.openframeworks.cc/t/new-addon-ofxsurfingdepthmap/45081</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxsurfingdepthmap/45081</guid>
-      <pubDate>Wed, 24 Sep 2025 13:56:51 GMT</pubDate>
-      <author>moebiussurfing</author>
-      <description>New addon: ofxSurfingDepthMap</description>
-      <comments>https://forum.openframeworks.cc/t/new-addon-ofxsurfingdepthmap/45081</comments>
-    </item>
-    <item>
-      <title>Error: &apos;CmdOutput’ does not name a type</title>
-      <link>https://forum.openframeworks.cc/t/error-cmdoutput-does-not-name-a-type/45058</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/error-cmdoutput-does-not-name-a-type/45058</guid>
-      <pubDate>Tue, 16 Sep 2025 05:59:45 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Error: &apos;CmdOutput’ does not name a type</description>
-      <comments>https://forum.openframeworks.cc/t/error-cmdoutput-does-not-name-a-type/45058</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Nov 2025 06:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 12:41:43 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Emscripten not working on MacOS arm</title>
+      <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</guid>
+      <pubDate>Tue, 04 Nov 2025 11:51:52 GMT</pubDate>
+      <author>ddgg</author>
+      <description>Emscripten not working on MacOS arm</description>
+      <comments>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</comments>
+    </item>
     <item>
       <title>Is there a live environment?</title>
       <link>https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</link>
@@ -268,15 +277,6 @@
       <author>alexandrosdrymonitis</author>
       <description>Error: &apos;CmdOutput’ does not name a type</description>
       <comments>https://forum.openframeworks.cc/t/error-cmdoutput-does-not-name-a-type/45058</comments>
-    </item>
-    <item>
-      <title>Draw part of ofPolyline</title>
-      <link>https://forum.openframeworks.cc/t/draw-part-of-ofpolyline/45063</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/draw-part-of-ofpolyline/45063</guid>
-      <pubDate>Wed, 17 Sep 2025 13:43:24 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Draw part of ofPolyline</description>
-      <comments>https://forum.openframeworks.cc/t/draw-part-of-ofpolyline/45063</comments>
     </item>
   </channel>
 </rss>

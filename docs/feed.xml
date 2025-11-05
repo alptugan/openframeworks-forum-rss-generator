@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 01:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 06:29:05 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>OF + OpenCV = Gravity Filtering</title>
+      <link>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</guid>
+      <pubDate>Wed, 05 Nov 2025 04:17:32 GMT</pubDate>
+      <author>bemoregt</author>
+      <description>OF + OpenCV = Gravity Filtering</description>
+      <comments>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</comments>
+    </item>
     <item>
       <title>Emscripten not working on MacOS arm</title>
       <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
@@ -268,15 +277,6 @@
       <author>theo</author>
       <description>OF Steering Comittee</description>
       <comments>https://forum.openframeworks.cc/t/of-steering-comittee/44679</comments>
-    </item>
-    <item>
-      <title>OF-RFC-001: Global Architecture: a layered approach</title>
-      <link>https://forum.openframeworks.cc/t/of-rfc-001-global-architecture-a-layered-approach/45087</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-rfc-001-global-architecture-a-layered-approach/45087</guid>
-      <pubDate>Fri, 26 Sep 2025 00:36:28 GMT</pubDate>
-      <author>burton</author>
-      <description>OF-RFC-001: Global Architecture: a layered approach</description>
-      <comments>https://forum.openframeworks.cc/t/of-rfc-001-global-architecture-a-layered-approach/45087</comments>
     </item>
   </channel>
 </rss>

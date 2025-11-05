@@ -5,17 +5,17 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 06:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 12:39:25 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>OF + OpenCV = Gravity Filtering</title>
-      <link>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</guid>
-      <pubDate>Wed, 05 Nov 2025 04:17:32 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>OF + OpenCV = Gravity Filtering</description>
-      <comments>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</comments>
+      <title>Call startx (Xorg) via auto start</title>
+      <link>https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</guid>
+      <pubDate>Wed, 05 Nov 2025 10:03:56 GMT</pubDate>
+      <author>D3rKlabauter</author>
+      <description>Call startx (Xorg) via auto start</description>
+      <comments>https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</comments>
     </item>
     <item>
       <title>Emscripten not working on MacOS arm</title>
@@ -25,6 +25,15 @@
       <author>ddgg</author>
       <description>Emscripten not working on MacOS arm</description>
       <comments>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</comments>
+    </item>
+    <item>
+      <title>OF + OpenCV = Gravity Filtering</title>
+      <link>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</guid>
+      <pubDate>Wed, 05 Nov 2025 04:17:32 GMT</pubDate>
+      <author>bemoregt</author>
+      <description>OF + OpenCV = Gravity Filtering</description>
+      <comments>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</comments>
     </item>
     <item>
       <title>Face detection with neural networks</title>
@@ -268,15 +277,6 @@
       <author>Sam_McElhinney_io</author>
       <description>Framework &apos;AGL&apos; not found</description>
       <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
-    </item>
-    <item>
-      <title>OF Steering Comittee</title>
-      <link>https://forum.openframeworks.cc/t/of-steering-comittee/44679</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-steering-comittee/44679</guid>
-      <pubDate>Tue, 20 May 2025 18:15:42 GMT</pubDate>
-      <author>theo</author>
-      <description>OF Steering Comittee</description>
-      <comments>https://forum.openframeworks.cc/t/of-steering-comittee/44679</comments>
     </item>
   </channel>
 </rss>

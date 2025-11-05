@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Nov 2025 12:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 18:27:21 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Call startx (Xorg) via auto start</title>
-      <link>https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</guid>
-      <pubDate>Wed, 05 Nov 2025 10:03:56 GMT</pubDate>
-      <author>D3rKlabauter</author>
-      <description>Call startx (Xorg) via auto start</description>
-      <comments>https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</comments>
-    </item>
     <item>
       <title>Emscripten not working on MacOS arm</title>
       <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
@@ -27,15 +18,6 @@
       <comments>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</comments>
     </item>
     <item>
-      <title>OF + OpenCV = Gravity Filtering</title>
-      <link>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</guid>
-      <pubDate>Wed, 05 Nov 2025 04:17:32 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>OF + OpenCV = Gravity Filtering</description>
-      <comments>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</comments>
-    </item>
-    <item>
       <title>Face detection with neural networks</title>
       <link>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</link>
       <guid isPermaLink="true">https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</guid>
@@ -43,6 +25,24 @@
       <author>brunovianna</author>
       <description>Face detection with neural networks</description>
       <comments>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</comments>
+    </item>
+    <item>
+      <title>Call startx (Xorg) via auto start</title>
+      <link>https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</guid>
+      <pubDate>Wed, 05 Nov 2025 10:03:56 GMT</pubDate>
+      <author>D3rKlabauter</author>
+      <description>Call startx (Xorg) via auto start</description>
+      <comments>https://forum.openframeworks.cc/t/call-startx-xorg-via-auto-start/45212</comments>
+    </item>
+    <item>
+      <title>OF + OpenCV = Gravity Filtering</title>
+      <link>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</guid>
+      <pubDate>Wed, 05 Nov 2025 04:17:32 GMT</pubDate>
+      <author>bemoregt</author>
+      <description>OF + OpenCV = Gravity Filtering</description>
+      <comments>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</comments>
     </item>
     <item>
       <title>Using leap motion through python+OSC</title>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Nov 2025 06:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 12:38:06 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>3D t-SNE Plot using Libtorch Only!</title>
+      <link>https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</guid>
+      <pubDate>Fri, 07 Nov 2025 07:09:09 GMT</pubDate>
+      <author>bemoregt</author>
+      <description>3D t-SNE Plot using Libtorch Only!</description>
+      <comments>https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</comments>
+    </item>
     <item>
       <title>Face detection with neural networks</title>
       <link>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</link>
@@ -268,15 +277,6 @@
       <author>Sam_McElhinney_io</author>
       <description>Framework &apos;AGL&apos; not found</description>
       <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
-    </item>
-    <item>
-      <title>OF Steering Comittee</title>
-      <link>https://forum.openframeworks.cc/t/of-steering-comittee/44679</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-steering-comittee/44679</guid>
-      <pubDate>Tue, 20 May 2025 18:15:42 GMT</pubDate>
-      <author>theo</author>
-      <description>OF Steering Comittee</description>
-      <comments>https://forum.openframeworks.cc/t/of-steering-comittee/44679</comments>
     </item>
   </channel>
 </rss>

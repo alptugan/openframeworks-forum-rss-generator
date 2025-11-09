@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Nov 2025 12:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 18:23:45 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Emscripten not working on MacOS arm</title>
+      <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</guid>
+      <pubDate>Tue, 04 Nov 2025 11:51:52 GMT</pubDate>
+      <author>ddgg</author>
+      <description>Emscripten not working on MacOS arm</description>
+      <comments>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</comments>
+    </item>
     <item>
       <title>3D t-SNE Plot using Libtorch Only!</title>
       <link>https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</link>
@@ -34,15 +43,6 @@
       <author>dimitre</author>
       <description>ofLibs (Apothecary alternative)</description>
       <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
-    </item>
-    <item>
-      <title>Emscripten not working on MacOS arm</title>
-      <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</guid>
-      <pubDate>Tue, 04 Nov 2025 11:51:52 GMT</pubDate>
-      <author>ddgg</author>
-      <description>Emscripten not working on MacOS arm</description>
-      <comments>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</comments>
     </item>
     <item>
       <title>OF + OpenCV = Gravity Filtering</title>

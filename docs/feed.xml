@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Nov 2025 18:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 01:38:02 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>I have forked ofxDatGui</title>
+      <link>https://forum.openframeworks.cc/t/i-have-forked-ofxdatgui/45229</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/i-have-forked-ofxdatgui/45229</guid>
+      <pubDate>Sun, 09 Nov 2025 23:27:30 GMT</pubDate>
+      <author>LoopyDev</author>
+      <description>I have forked ofxDatGui</description>
+      <comments>https://forum.openframeworks.cc/t/i-have-forked-ofxdatgui/45229</comments>
+    </item>
     <item>
       <title>Emscripten not working on MacOS arm</title>
       <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
@@ -268,15 +277,6 @@
       <author>aliallaoui</author>
       <description>audioInput example, Jack and segmentation fault</description>
       <comments>https://forum.openframeworks.cc/t/audioinput-example-jack-and-segmentation-fault/45102</comments>
-    </item>
-    <item>
-      <title>Framework &apos;AGL&apos; not found</title>
-      <link>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/framework-agl-not-found/45061</guid>
-      <pubDate>Wed, 17 Sep 2025 08:36:25 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Framework &apos;AGL&apos; not found</description>
-      <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
     </item>
   </channel>
 </rss>

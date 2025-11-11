@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Nov 2025 18:27:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 01:26:20 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Tracking Rudolph&apos;s nose using a Kalman Filter</title>
+      <link>https://forum.openframeworks.cc/t/tracking-rudolphs-nose-using-a-kalman-filter/45232</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/tracking-rudolphs-nose-using-a-kalman-filter/45232</guid>
+      <pubDate>Tue, 11 Nov 2025 00:39:29 GMT</pubDate>
+      <author>bemoregt</author>
+      <description>Tracking Rudolph&apos;s nose using a Kalman Filter</description>
+      <comments>https://forum.openframeworks.cc/t/tracking-rudolphs-nose-using-a-kalman-filter/45232</comments>
+    </item>
     <item>
       <title>I have forked ofxDatGui</title>
       <link>https://forum.openframeworks.cc/t/i-have-forked-ofxdatgui/45229</link>
@@ -268,15 +277,6 @@
       <author>burton</author>
       <description>OF-RFC-000: introducing RFCs</description>
       <comments>https://forum.openframeworks.cc/t/of-rfc-000-introducing-rfcs/45086</comments>
-    </item>
-    <item>
-      <title>audioInput example, Jack and segmentation fault</title>
-      <link>https://forum.openframeworks.cc/t/audioinput-example-jack-and-segmentation-fault/45102</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/audioinput-example-jack-and-segmentation-fault/45102</guid>
-      <pubDate>Tue, 30 Sep 2025 14:48:48 GMT</pubDate>
-      <author>aliallaoui</author>
-      <description>audioInput example, Jack and segmentation fault</description>
-      <comments>https://forum.openframeworks.cc/t/audioinput-example-jack-and-segmentation-fault/45102</comments>
     </item>
   </channel>
 </rss>

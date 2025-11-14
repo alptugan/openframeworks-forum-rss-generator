@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Nov 2025 12:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 18:27:10 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</title>
+      <link>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</guid>
+      <pubDate>Fri, 14 Nov 2025 17:35:37 GMT</pubDate>
+      <author>lester_lowtec</author>
+      <description>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</description>
+      <comments>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</comments>
+    </item>
     <item>
       <title>Emscripten not working on MacOS arm</title>
       <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
@@ -268,15 +277,6 @@
       <author>cmendoza</author>
       <description>Experimental OF+CMake Fork</description>
       <comments>https://forum.openframeworks.cc/t/experimental-of-cmake-fork/45083</comments>
-    </item>
-    <item>
-      <title>Setting up a dev environment with nix/guix shell?</title>
-      <link>https://forum.openframeworks.cc/t/setting-up-a-dev-environment-with-nix-guix-shell/45096</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/setting-up-a-dev-environment-with-nix-guix-shell/45096</guid>
-      <pubDate>Mon, 29 Sep 2025 07:00:54 GMT</pubDate>
-      <author>kflak1</author>
-      <description>Setting up a dev environment with nix/guix shell?</description>
-      <comments>https://forum.openframeworks.cc/t/setting-up-a-dev-environment-with-nix-guix-shell/45096</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Nov 2025 06:28:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 12:39:19 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Which platforms do you use openFrameworks on?</title>
+      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
+      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
+      <author>dimitre</author>
+      <description>Which platforms do you use openFrameworks on?</description>
+      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
+    </item>
     <item>
       <title>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</title>
       <link>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</link>
@@ -133,15 +142,6 @@
       <author>Sam_McElhinney_io</author>
       <description>capsLock adds previous key char to string</description>
       <comments>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</comments>
-    </item>
-    <item>
-      <title>Which platforms do you use openFrameworks on?</title>
-      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
-      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
-      <author>dimitre</author>
-      <description>Which platforms do you use openFrameworks on?</description>
-      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
     </item>
     <item>
       <title>Can&apos;t Run OF on MacOS</title>

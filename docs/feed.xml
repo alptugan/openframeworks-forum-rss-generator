@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 12:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 18:32:29 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>OF+vcpkg+cmake fork</title>
+      <link>https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</guid>
+      <pubDate>Tue, 25 Nov 2025 22:17:35 GMT</pubDate>
+      <author>cmendoza</author>
+      <description>OF+vcpkg+cmake fork</description>
+      <comments>https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</comments>
+    </item>
     <item>
       <title>Duration a Timeline for Creative Coding on Ubuntu 22</title>
       <link>https://forum.openframeworks.cc/t/duration-a-timeline-for-creative-coding-on-ubuntu-22/40910</link>
@@ -25,15 +34,6 @@
       <author>roymacdonald</author>
       <description>Blackmetalizer: a generative black metal logo generator</description>
       <comments>https://forum.openframeworks.cc/t/blackmetalizer-a-generative-black-metal-logo-generator/45280</comments>
-    </item>
-    <item>
-      <title>OF+vcpkg+cmake fork</title>
-      <link>https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</guid>
-      <pubDate>Tue, 25 Nov 2025 22:17:35 GMT</pubDate>
-      <author>cmendoza</author>
-      <description>OF+vcpkg+cmake fork</description>
-      <comments>https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</comments>
     </item>
     <item>
       <title>Which platforms do you use openFrameworks on?</title>

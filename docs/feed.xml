@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Dec 2025 12:44:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 18:29:01 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Finally, I succeeded in running openFrameworks examples on the Arduino Uno Q</title>
-      <link>https://forum.openframeworks.cc/t/finally-i-succeeded-in-running-openframeworks-examples-on-the-arduino-uno-q/45314</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/finally-i-succeeded-in-running-openframeworks-examples-on-the-arduino-uno-q/45314</guid>
-      <pubDate>Thu, 11 Dec 2025 08:52:42 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>Finally, I succeeded in running openFrameworks examples on the Arduino Uno Q</description>
-      <comments>https://forum.openframeworks.cc/t/finally-i-succeeded-in-running-openframeworks-examples-on-the-arduino-uno-q/45314</comments>
-    </item>
     <item>
       <title>Blackmetalizer: a generative black metal logo generator</title>
       <link>https://forum.openframeworks.cc/t/blackmetalizer-a-generative-black-metal-logo-generator/45280</link>
@@ -25,6 +16,15 @@
       <author>roymacdonald</author>
       <description>Blackmetalizer: a generative black metal logo generator</description>
       <comments>https://forum.openframeworks.cc/t/blackmetalizer-a-generative-black-metal-logo-generator/45280</comments>
+    </item>
+    <item>
+      <title>Finally, I succeeded in running openFrameworks examples on the Arduino Uno Q</title>
+      <link>https://forum.openframeworks.cc/t/finally-i-succeeded-in-running-openframeworks-examples-on-the-arduino-uno-q/45314</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/finally-i-succeeded-in-running-openframeworks-examples-on-the-arduino-uno-q/45314</guid>
+      <pubDate>Thu, 11 Dec 2025 08:52:42 GMT</pubDate>
+      <author>bemoregt</author>
+      <description>Finally, I succeeded in running openFrameworks examples on the Arduino Uno Q</description>
+      <comments>https://forum.openframeworks.cc/t/finally-i-succeeded-in-running-openframeworks-examples-on-the-arduino-uno-q/45314</comments>
     </item>
     <item>
       <title>Ho do I load Japanese fonts and characters?</title>

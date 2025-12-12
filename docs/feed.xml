@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Dec 2025 12:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 18:31:13 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Green blanking on video loop point (linux 0.12.1)</title>
+      <link>https://forum.openframeworks.cc/t/green-blanking-on-video-loop-point-linux-0-12-1/45318</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/green-blanking-on-video-loop-point-linux-0-12-1/45318</guid>
+      <pubDate>Fri, 12 Dec 2025 17:43:40 GMT</pubDate>
+      <author>Johannes_Valbjorn</author>
+      <description>Green blanking on video loop point (linux 0.12.1)</description>
+      <comments>https://forum.openframeworks.cc/t/green-blanking-on-video-loop-point-linux-0-12-1/45318</comments>
+    </item>
     <item>
       <title>Blackmetalizer: a generative black metal logo generator</title>
       <link>https://forum.openframeworks.cc/t/blackmetalizer-a-generative-black-metal-logo-generator/45280</link>
@@ -268,15 +277,6 @@
       <author>kamal12362</author>
       <description>Kamal Hinduja: How do you load and display images in Open Frameworks?</description>
       <comments>https://forum.openframeworks.cc/t/kamal-hinduja-how-do-you-load-and-display-images-in-open-frameworks/45125</comments>
-    </item>
-    <item>
-      <title>macOS 12 + M1 + VScode</title>
-      <link>https://forum.openframeworks.cc/t/macos-12-m1-vscode/43843</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/macos-12-m1-vscode/43843</guid>
-      <pubDate>Wed, 28 Aug 2024 13:09:13 GMT</pubDate>
-      <author>stephanschulz</author>
-      <description>macOS 12 + M1 + VScode</description>
-      <comments>https://forum.openframeworks.cc/t/macos-12-m1-vscode/43843</comments>
     </item>
   </channel>
 </rss>

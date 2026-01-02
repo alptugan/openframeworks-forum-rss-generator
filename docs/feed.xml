@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2026 18:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 01:42:29 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Is Compiling OF necessary on rpi?</title>
+      <link>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</guid>
+      <pubDate>Thu, 01 Jan 2026 23:10:57 GMT</pubDate>
+      <author>homonimm</author>
+      <description>Is Compiling OF necessary on rpi?</description>
+      <comments>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</comments>
+    </item>
+    <item>
+      <title>Esp-now midi and enomik 3000 (esp-now midi kit)</title>
+      <link>https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</guid>
+      <pubDate>Thu, 01 Jan 2026 22:58:01 GMT</pubDate>
+      <author>thomasgeissl</author>
+      <description>Esp-now midi and enomik 3000 (esp-now midi kit)</description>
+      <comments>https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</comments>
+    </item>
     <item>
       <title>Green blanking on video loop point (linux 0.12.1)</title>
       <link>https://forum.openframeworks.cc/t/green-blanking-on-video-loop-point-linux-0-12-1/45318</link>
@@ -259,24 +277,6 @@
       <author>gerardo-pellicer</author>
       <description>Ultraleap Addon</description>
       <comments>https://forum.openframeworks.cc/t/ultraleap-addon/45143</comments>
-    </item>
-    <item>
-      <title>Wierd behavior with ofSystemLoadDialog</title>
-      <link>https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</guid>
-      <pubDate>Thu, 09 Oct 2025 07:43:43 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Wierd behavior with ofSystemLoadDialog</description>
-      <comments>https://forum.openframeworks.cc/t/wierd-behavior-with-ofsystemloaddialog/45126</comments>
-    </item>
-    <item>
-      <title>Kamal Hinduja: How do you load and display images in Open Frameworks?</title>
-      <link>https://forum.openframeworks.cc/t/kamal-hinduja-how-do-you-load-and-display-images-in-open-frameworks/45125</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/kamal-hinduja-how-do-you-load-and-display-images-in-open-frameworks/45125</guid>
-      <pubDate>Thu, 09 Oct 2025 06:13:03 GMT</pubDate>
-      <author>kamal12362</author>
-      <description>Kamal Hinduja: How do you load and display images in Open Frameworks?</description>
-      <comments>https://forum.openframeworks.cc/t/kamal-hinduja-how-do-you-load-and-display-images-in-open-frameworks/45125</comments>
     </item>
   </channel>
 </rss>

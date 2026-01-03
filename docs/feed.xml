@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Jan 2026 18:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 01:28:11 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Is Compiling OF necessary on rpi?</title>
-      <link>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</guid>
-      <pubDate>Thu, 01 Jan 2026 23:10:57 GMT</pubDate>
-      <author>homonimm</author>
-      <description>Is Compiling OF necessary on rpi?</description>
-      <comments>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</comments>
-    </item>
     <item>
       <title>Esp-now midi and enomik 3000 (esp-now midi kit)</title>
       <link>https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</link>
@@ -25,6 +16,15 @@
       <author>thomasgeissl</author>
       <description>Esp-now midi and enomik 3000 (esp-now midi kit)</description>
       <comments>https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</comments>
+    </item>
+    <item>
+      <title>Is Compiling OF necessary on rpi?</title>
+      <link>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</guid>
+      <pubDate>Thu, 01 Jan 2026 23:10:57 GMT</pubDate>
+      <author>homonimm</author>
+      <description>Is Compiling OF necessary on rpi?</description>
+      <comments>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</comments>
     </item>
     <item>
       <title>Green blanking on video loop point (linux 0.12.1)</title>

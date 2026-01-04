@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jan 2026 06:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 12:39:15 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Websockets implementation with websocketpp</title>
+      <link>https://forum.openframeworks.cc/t/websockets-implementation-with-websocketpp/45374</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/websockets-implementation-with-websocketpp/45374</guid>
+      <pubDate>Sun, 04 Jan 2026 09:21:08 GMT</pubDate>
+      <author>CarloCattano</author>
+      <description>Websockets implementation with websocketpp</description>
+      <comments>https://forum.openframeworks.cc/t/websockets-implementation-with-websocketpp/45374</comments>
+    </item>
     <item>
       <title>Esp-now midi and enomik 3000 (esp-now midi kit)</title>
       <link>https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</link>
@@ -268,15 +277,6 @@
       <author>carthach</author>
       <description>Postdoc (Interactive Media) @ MTU Cork School of Music</description>
       <comments>https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</comments>
-    </item>
-    <item>
-      <title>Ultraleap Addon</title>
-      <link>https://forum.openframeworks.cc/t/ultraleap-addon/45143</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ultraleap-addon/45143</guid>
-      <pubDate>Mon, 13 Oct 2025 16:23:57 GMT</pubDate>
-      <author>gerardo-pellicer</author>
-      <description>Ultraleap Addon</description>
-      <comments>https://forum.openframeworks.cc/t/ultraleap-addon/45143</comments>
     </item>
   </channel>
 </rss>

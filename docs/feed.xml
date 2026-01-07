@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Jan 2026 12:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 18:32:36 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Audio panning/routing</title>
+      <link>https://forum.openframeworks.cc/t/audio-panning-routing/45382</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/audio-panning-routing/45382</guid>
+      <pubDate>Wed, 07 Jan 2026 14:25:23 GMT</pubDate>
+      <author>LSka</author>
+      <description>Audio panning/routing</description>
+      <comments>https://forum.openframeworks.cc/t/audio-panning-routing/45382</comments>
+    </item>
     <item>
       <title>Websockets implementation with websocketpp</title>
       <link>https://forum.openframeworks.cc/t/websockets-implementation-with-websocketpp/45374</link>
@@ -268,15 +277,6 @@
       <author>burton</author>
       <description>OF-RFC-002: Layer 1: OF Standalone Core</description>
       <comments>https://forum.openframeworks.cc/t/of-rfc-002-layer-1-of-standalone-core/45089</comments>
-    </item>
-    <item>
-      <title>Postdoc (Interactive Media) @ MTU Cork School of Music</title>
-      <link>https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</guid>
-      <pubDate>Tue, 14 Oct 2025 14:29:50 GMT</pubDate>
-      <author>carthach</author>
-      <description>Postdoc (Interactive Media) @ MTU Cork School of Music</description>
-      <comments>https://forum.openframeworks.cc/t/postdoc-interactive-media-mtu-cork-school-of-music/45149</comments>
     </item>
   </channel>
 </rss>

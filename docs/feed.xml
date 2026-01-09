@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Jan 2026 12:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 18:31:22 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofLibs (Apothecary alternative)</title>
+      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
+      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
+      <author>dimitre</author>
+      <description>ofLibs (Apothecary alternative)</description>
+      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
+    </item>
     <item>
       <title>Audio panning/routing</title>
       <link>https://forum.openframeworks.cc/t/audio-panning-routing/45382</link>
@@ -124,15 +133,6 @@
       <author>lester_lowtec</author>
       <description>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</description>
       <comments>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</comments>
-    </item>
-    <item>
-      <title>ofLibs (Apothecary alternative)</title>
-      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
-      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofLibs (Apothecary alternative)</description>
-      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
     </item>
     <item>
       <title>Mouse Controlled Image Processing</title>

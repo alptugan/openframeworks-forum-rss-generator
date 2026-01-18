@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jan 2026 18:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 01:50:07 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>getOutline() returning 0</title>
+      <link>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/getoutline-returning-0/45418</guid>
+      <pubDate>Sat, 17 Jan 2026 18:34:49 GMT</pubDate>
+      <author>cail</author>
+      <description>getOutline() returning 0</description>
+      <comments>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</comments>
+    </item>
     <item>
       <title>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</title>
       <link>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</link>
@@ -268,15 +277,6 @@
       <author>friendlyspinach</author>
       <description>Can&apos;t Run OF on MacOS</description>
       <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
-    </item>
-    <item>
-      <title>Why does my project build everything from scratch every time I compile it</title>
-      <link>https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</guid>
-      <pubDate>Sat, 27 Sep 2025 08:23:53 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Why does my project build everything from scratch every time I compile it</description>
-      <comments>https://forum.openframeworks.cc/t/why-does-my-project-build-everything-from-scratch-every-time-i-compile-it/45091</comments>
     </item>
   </channel>
 </rss>

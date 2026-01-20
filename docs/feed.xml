@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jan 2026 12:49:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 18:35:58 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</title>
-      <link>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</guid>
-      <pubDate>Mon, 12 Jan 2026 01:18:48 GMT</pubDate>
-      <author>Ryan_Paterson</author>
-      <description>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</description>
-      <comments>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</comments>
-    </item>
     <item>
       <title>getOutline() returning 0</title>
       <link>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</link>
@@ -25,6 +16,15 @@
       <author>cail</author>
       <description>getOutline() returning 0</description>
       <comments>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</comments>
+    </item>
+    <item>
+      <title>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</title>
+      <link>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</guid>
+      <pubDate>Mon, 12 Jan 2026 01:18:48 GMT</pubDate>
+      <author>Ryan_Paterson</author>
+      <description>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</description>
+      <comments>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</comments>
     </item>
     <item>
       <title>ofLibs (Apothecary alternative)</title>

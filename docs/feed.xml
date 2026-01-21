@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jan 2026 18:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 01:46:37 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofLibs (Apothecary alternative)</title>
+      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
+      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
+      <author>dimitre</author>
+      <description>ofLibs (Apothecary alternative)</description>
+      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
+    </item>
     <item>
       <title>getOutline() returning 0</title>
       <link>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</link>
@@ -25,15 +34,6 @@
       <author>Ryan_Paterson</author>
       <description>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</description>
       <comments>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</comments>
-    </item>
-    <item>
-      <title>ofLibs (Apothecary alternative)</title>
-      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
-      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofLibs (Apothecary alternative)</description>
-      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
     </item>
     <item>
       <title>Call for participation : Libre Graphics Meeting 2026</title>

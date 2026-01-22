@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jan 2026 18:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 01:46:34 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Sources in ADDON_SOURCES are not compiled</title>
+      <link>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</guid>
+      <pubDate>Sun, 11 Jan 2026 15:13:10 GMT</pubDate>
+      <author>pgfaller</author>
+      <description>Sources in ADDON_SOURCES are not compiled</description>
+      <comments>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</comments>
+    </item>
     <item>
       <title>ofLibs (Apothecary alternative)</title>
       <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
@@ -43,15 +52,6 @@
       <author>hamoid</author>
       <description>Call for participation : Libre Graphics Meeting 2026</description>
       <comments>https://forum.openframeworks.cc/t/call-for-participation-libre-graphics-meeting-2026/45408</comments>
-    </item>
-    <item>
-      <title>Sources in ADDON_SOURCES are not compiled</title>
-      <link>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</guid>
-      <pubDate>Sun, 11 Jan 2026 15:13:10 GMT</pubDate>
-      <author>pgfaller</author>
-      <description>Sources in ADDON_SOURCES are not compiled</description>
-      <comments>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</comments>
     </item>
     <item>
       <title>Audio panning/routing</title>

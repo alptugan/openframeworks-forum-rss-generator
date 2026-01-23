@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jan 2026 12:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 18:32:58 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>New addon: ofxBlend2D - 2D vector renderer on the CPU</title>
+      <link>https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</guid>
+      <pubDate>Mon, 12 Aug 2024 10:09:17 GMT</pubDate>
+      <author>Daan</author>
+      <description>New addon: ofxBlend2D - 2D vector renderer on the CPU</description>
+      <comments>https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</comments>
+    </item>
     <item>
       <title>Sources in ADDON_SOURCES are not compiled</title>
       <link>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</link>
@@ -268,15 +277,6 @@
       <author>Sam_McElhinney_io</author>
       <description>capsLock adds previous key char to string</description>
       <comments>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</comments>
-    </item>
-    <item>
-      <title>Can&apos;t Run OF on MacOS</title>
-      <link>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</guid>
-      <pubDate>Sun, 19 Oct 2025 18:03:37 GMT</pubDate>
-      <author>friendlyspinach</author>
-      <description>Can&apos;t Run OF on MacOS</description>
-      <comments>https://forum.openframeworks.cc/t/cant-run-of-on-macos/45165</comments>
     </item>
   </channel>
 </rss>

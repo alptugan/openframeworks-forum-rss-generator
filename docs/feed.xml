@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jan 2026 06:34:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:50:02 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Shouldn&apos;t I deallocate dynamically allocated memory on exit?</title>
+      <link>https://forum.openframeworks.cc/t/shouldnt-i-deallocate-dynamically-allocated-memory-on-exit/45442</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/shouldnt-i-deallocate-dynamically-allocated-memory-on-exit/45442</guid>
+      <pubDate>Tue, 27 Jan 2026 08:07:59 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>Shouldn&apos;t I deallocate dynamically allocated memory on exit?</description>
+      <comments>https://forum.openframeworks.cc/t/shouldnt-i-deallocate-dynamically-allocated-memory-on-exit/45442</comments>
+    </item>
     <item>
       <title>New addon: ofxBlend2D - 2D vector renderer on the CPU</title>
       <link>https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</link>
@@ -268,15 +277,6 @@
       <author>Johannes_Valbjorn</author>
       <description>[udp broadcast] ofxUDPManager.cpp: 295 EINVAL: invalid argument</description>
       <comments>https://forum.openframeworks.cc/t/udp-broadcast-ofxudpmanager-cpp-295-einval-invalid-argument/45190</comments>
-    </item>
-    <item>
-      <title>capsLock adds previous key char to string</title>
-      <link>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</guid>
-      <pubDate>Fri, 24 Oct 2025 19:02:36 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>capsLock adds previous key char to string</description>
-      <comments>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</comments>
     </item>
   </channel>
 </rss>

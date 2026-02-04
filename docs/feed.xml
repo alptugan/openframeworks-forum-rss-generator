@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 12:57:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 18:50:48 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Menu Resolution</title>
+      <link>https://forum.openframeworks.cc/t/menu-resolution/45462</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/menu-resolution/45462</guid>
+      <pubDate>Wed, 04 Feb 2026 13:15:25 GMT</pubDate>
+      <author>mDSP</author>
+      <description>Menu Resolution</description>
+      <comments>https://forum.openframeworks.cc/t/menu-resolution/45462</comments>
+    </item>
     <item>
       <title>Openframeworks and Visual studio 2026</title>
       <link>https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</link>
@@ -268,15 +277,6 @@
       <author>08_objekt</author>
       <description>Is there a live environment?</description>
       <comments>https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</comments>
-    </item>
-    <item>
-      <title>openFrameworks not working on production PC</title>
-      <link>https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</guid>
-      <pubDate>Thu, 30 Oct 2025 21:22:03 GMT</pubDate>
-      <author>jeffrey9700</author>
-      <description>openFrameworks not working on production PC</description>
-      <comments>https://forum.openframeworks.cc/t/openframeworks-not-working-on-production-pc/45195</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Feb 2026 06:58:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 13:00:52 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Image turning white</title>
+      <link>https://forum.openframeworks.cc/t/image-turning-white/45466</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/image-turning-white/45466</guid>
+      <pubDate>Thu, 05 Feb 2026 08:23:33 GMT</pubDate>
+      <author>surrealism</author>
+      <description>Image turning white</description>
+      <comments>https://forum.openframeworks.cc/t/image-turning-white/45466</comments>
+    </item>
     <item>
       <title>Menu Resolution</title>
       <link>https://forum.openframeworks.cc/t/menu-resolution/45462</link>
@@ -268,15 +277,6 @@
       <author>brunovianna</author>
       <description>Using leap motion through python+OSC</description>
       <comments>https://forum.openframeworks.cc/t/using-leap-motion-through-python-osc/45208</comments>
-    </item>
-    <item>
-      <title>Is there a live environment?</title>
-      <link>https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</guid>
-      <pubDate>Sun, 21 May 2023 09:02:02 GMT</pubDate>
-      <author>08_objekt</author>
-      <description>Is there a live environment?</description>
-      <comments>https://forum.openframeworks.cc/t/is-there-a-live-environment/41919</comments>
     </item>
   </channel>
 </rss>

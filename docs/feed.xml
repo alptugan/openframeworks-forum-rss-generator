@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Feb 2026 12:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 18:50:52 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>GUI confusion in OF</title>
+      <link>https://forum.openframeworks.cc/t/gui-confusion-in-of/41924</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/gui-confusion-in-of/41924</guid>
+      <pubDate>Sun, 21 May 2023 19:25:28 GMT</pubDate>
+      <author>SFR75</author>
+      <description>GUI confusion in OF</description>
+      <comments>https://forum.openframeworks.cc/t/gui-confusion-in-of/41924</comments>
+    </item>
     <item>
       <title>Image turning white</title>
       <link>https://forum.openframeworks.cc/t/image-turning-white/45466</link>
@@ -268,15 +277,6 @@
       <author>bemoregt</author>
       <description>OF + OpenCV = Gravity Filtering</description>
       <comments>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</comments>
-    </item>
-    <item>
-      <title>Using leap motion through python+OSC</title>
-      <link>https://forum.openframeworks.cc/t/using-leap-motion-through-python-osc/45208</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/using-leap-motion-through-python-osc/45208</guid>
-      <pubDate>Tue, 04 Nov 2025 15:39:26 GMT</pubDate>
-      <author>brunovianna</author>
-      <description>Using leap motion through python+OSC</description>
-      <comments>https://forum.openframeworks.cc/t/using-leap-motion-through-python-osc/45208</comments>
     </item>
   </channel>
 </rss>

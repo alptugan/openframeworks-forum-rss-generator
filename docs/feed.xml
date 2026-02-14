@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Feb 2026 12:47:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 18:33:59 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofLibs (Apothecary alternative)</title>
+      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
+      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
+      <author>dimitre</author>
+      <description>ofLibs (Apothecary alternative)</description>
+      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
+    </item>
     <item>
       <title>Menu Resolution</title>
       <link>https://forum.openframeworks.cc/t/menu-resolution/45462</link>
@@ -43,15 +52,6 @@
       <author>lluon</author>
       <description>Openframeworks and Visual studio 2026</description>
       <comments>https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</comments>
-    </item>
-    <item>
-      <title>ofLibs (Apothecary alternative)</title>
-      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
-      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofLibs (Apothecary alternative)</description>
-      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
     </item>
     <item>
       <title>Shouldn&apos;t I deallocate dynamically allocated memory on exit?</title>

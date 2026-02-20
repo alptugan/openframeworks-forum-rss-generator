@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 12:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 18:46:56 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>What are the current (2026) IDE options for OF on Linux?</title>
+      <link>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</guid>
+      <pubDate>Fri, 20 Feb 2026 18:44:01 GMT</pubDate>
+      <author>Drazinut</author>
+      <description>What are the current (2026) IDE options for OF on Linux?</description>
+      <comments>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</comments>
+    </item>
+    <item>
+      <title>Which platforms do you use openFrameworks on?</title>
+      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
+      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
+      <author>dimitre</author>
+      <description>Which platforms do you use openFrameworks on?</description>
+      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
+    </item>
     <item>
       <title>ofLibs (Apothecary alternative)</title>
       <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
@@ -198,15 +216,6 @@
       <comments>https://forum.openframeworks.cc/t/duration-a-timeline-for-creative-coding-on-ubuntu-22/40910</comments>
     </item>
     <item>
-      <title>Which platforms do you use openFrameworks on?</title>
-      <link>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</guid>
-      <pubDate>Sat, 18 Oct 2025 00:03:59 GMT</pubDate>
-      <author>dimitre</author>
-      <description>Which platforms do you use openFrameworks on?</description>
-      <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
-    </item>
-    <item>
       <title>Emscripten not working on MacOS arm</title>
       <link>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</link>
       <guid isPermaLink="true">https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</guid>
@@ -268,15 +277,6 @@
       <author>brunovianna</author>
       <description>Face detection with neural networks</description>
       <comments>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</comments>
-    </item>
-    <item>
-      <title>OF + OpenCV = Gravity Filtering</title>
-      <link>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</guid>
-      <pubDate>Wed, 05 Nov 2025 04:17:32 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>OF + OpenCV = Gravity Filtering</description>
-      <comments>https://forum.openframeworks.cc/t/of-opencv-gravity-filtering/45211</comments>
     </item>
   </channel>
 </rss>

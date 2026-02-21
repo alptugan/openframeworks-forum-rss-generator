@@ -5,7 +5,7 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 18:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 01:56:55 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
@@ -16,6 +16,15 @@
       <author>Drazinut</author>
       <description>What are the current (2026) IDE options for OF on Linux?</description>
       <comments>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</comments>
+    </item>
+    <item>
+      <title>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</title>
+      <link>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</guid>
+      <pubDate>Fri, 14 Nov 2025 17:35:37 GMT</pubDate>
+      <author>lester_lowtec</author>
+      <description>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</description>
+      <comments>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</comments>
     </item>
     <item>
       <title>Which platforms do you use openFrameworks on?</title>
@@ -223,15 +232,6 @@
       <author>ddgg</author>
       <description>Emscripten not working on MacOS arm</description>
       <comments>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</comments>
-    </item>
-    <item>
-      <title>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</title>
-      <link>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</guid>
-      <pubDate>Fri, 14 Nov 2025 17:35:37 GMT</pubDate>
-      <author>lester_lowtec</author>
-      <description>Can&apos;t execute OF compiled on Mac OS 15.7.2 (M2)</description>
-      <comments>https://forum.openframeworks.cc/t/cant-execute-of-compiled-on-mac-os-15-7-2-m2/45245</comments>
     </item>
     <item>
       <title>Mouse Controlled Image Processing</title>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 06:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 13:04:33 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Zed code editor, have you tried?</title>
+      <link>https://forum.openframeworks.cc/t/zed-code-editor-have-you-tried/43127</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/zed-code-editor-have-you-tried/43127</guid>
+      <pubDate>Mon, 29 Jan 2024 16:52:45 GMT</pubDate>
+      <author>dimitre</author>
+      <description>Zed code editor, have you tried?</description>
+      <comments>https://forum.openframeworks.cc/t/zed-code-editor-have-you-tried/43127</comments>
+    </item>
     <item>
       <title>What are the current (2026) IDE options for OF on Linux?</title>
       <link>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</link>
@@ -268,15 +277,6 @@
       <author>bemoregt</author>
       <description>3D t-SNE Plot using Libtorch Only!</description>
       <comments>https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</comments>
-    </item>
-    <item>
-      <title>Face detection with neural networks</title>
-      <link>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</guid>
-      <pubDate>Tue, 04 Nov 2025 16:00:01 GMT</pubDate>
-      <author>brunovianna</author>
-      <description>Face detection with neural networks</description>
-      <comments>https://forum.openframeworks.cc/t/face-detection-with-neural-networks/45209</comments>
     </item>
   </channel>
 </rss>

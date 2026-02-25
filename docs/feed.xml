@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 02:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:01:21 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Is Wayland support expected at some point?</title>
+      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
+      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
+      <author>xkwz</author>
+      <description>Is Wayland support expected at some point?</description>
+      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
+    </item>
     <item>
       <title>What are the current (2026) IDE options for OF on Linux?</title>
       <link>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</link>
@@ -268,15 +277,6 @@
       <author>LoopyDev</author>
       <description>I have forked ofxDatGui</description>
       <comments>https://forum.openframeworks.cc/t/i-have-forked-ofxdatgui/45229</comments>
-    </item>
-    <item>
-      <title>3D t-SNE Plot using Libtorch Only!</title>
-      <link>https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</guid>
-      <pubDate>Fri, 07 Nov 2025 07:09:09 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>3D t-SNE Plot using Libtorch Only!</description>
-      <comments>https://forum.openframeworks.cc/t/3d-t-sne-plot-using-libtorch-only/45221</comments>
     </item>
   </channel>
 </rss>

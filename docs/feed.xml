@@ -5,7 +5,7 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 13:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 18:52:29 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
@@ -18,15 +18,6 @@
       <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
     </item>
     <item>
-      <title>What are the current (2026) IDE options for OF on Linux?</title>
-      <link>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</guid>
-      <pubDate>Fri, 20 Feb 2026 18:44:01 GMT</pubDate>
-      <author>Drazinut</author>
-      <description>What are the current (2026) IDE options for OF on Linux?</description>
-      <comments>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</comments>
-    </item>
-    <item>
       <title>Openframeworks and Visual studio 2026</title>
       <link>https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</link>
       <guid isPermaLink="true">https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</guid>
@@ -34,6 +25,15 @@
       <author>lluon</author>
       <description>Openframeworks and Visual studio 2026</description>
       <comments>https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</comments>
+    </item>
+    <item>
+      <title>What are the current (2026) IDE options for OF on Linux?</title>
+      <link>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</guid>
+      <pubDate>Fri, 20 Feb 2026 18:44:01 GMT</pubDate>
+      <author>Drazinut</author>
+      <description>What are the current (2026) IDE options for OF on Linux?</description>
+      <comments>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</comments>
     </item>
     <item>
       <title>Zed code editor, have you tried?</title>

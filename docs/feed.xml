@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 12:58:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 19:15:45 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>XR Sunday Social</title>
+      <link>https://forum.openframeworks.cc/t/xr-sunday-social/45529</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/xr-sunday-social/45529</guid>
+      <pubDate>Thu, 05 Mar 2026 16:17:51 GMT</pubDate>
+      <author>aelab</author>
+      <description>XR Sunday Social</description>
+      <comments>https://forum.openframeworks.cc/t/xr-sunday-social/45529</comments>
+    </item>
+    <item>
+      <title>OPEN CALL – CCL at Royal Ballet and Opera</title>
+      <link>https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</guid>
+      <pubDate>Thu, 05 Mar 2026 16:15:38 GMT</pubDate>
+      <author>aelab</author>
+      <description>OPEN CALL – CCL at Royal Ballet and Opera</description>
+      <comments>https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</comments>
+    </item>
     <item>
       <title>New addon release: ofxLlamaCpp</title>
       <link>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</link>
@@ -259,24 +277,6 @@
       <author>ddgg</author>
       <description>Emscripten not working on MacOS arm</description>
       <comments>https://forum.openframeworks.cc/t/emscripten-not-working-on-macos-arm/45206</comments>
-    </item>
-    <item>
-      <title>Mouse Controlled Image Processing</title>
-      <link>https://forum.openframeworks.cc/t/mouse-controlled-image-processing/45238</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/mouse-controlled-image-processing/45238</guid>
-      <pubDate>Wed, 12 Nov 2025 05:58:53 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>Mouse Controlled Image Processing</description>
-      <comments>https://forum.openframeworks.cc/t/mouse-controlled-image-processing/45238</comments>
-    </item>
-    <item>
-      <title>Tracking Rudolph&apos;s nose using a Kalman Filter</title>
-      <link>https://forum.openframeworks.cc/t/tracking-rudolphs-nose-using-a-kalman-filter/45232</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/tracking-rudolphs-nose-using-a-kalman-filter/45232</guid>
-      <pubDate>Tue, 11 Nov 2025 00:39:29 GMT</pubDate>
-      <author>bemoregt</author>
-      <description>Tracking Rudolph&apos;s nose using a Kalman Filter</description>
-      <comments>https://forum.openframeworks.cc/t/tracking-rudolphs-nose-using-a-kalman-filter/45232</comments>
     </item>
   </channel>
 </rss>

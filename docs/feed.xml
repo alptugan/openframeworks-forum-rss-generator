@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 06:48:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 12:54:38 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>New addon release: ofxLlamaCpp</title>
+      <link>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</guid>
+      <pubDate>Tue, 03 Mar 2026 18:32:09 GMT</pubDate>
+      <author>yannickhofmann</author>
+      <description>New addon release: ofxLlamaCpp</description>
+      <comments>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</comments>
+    </item>
     <item>
       <title>XR Sunday Social</title>
       <link>https://forum.openframeworks.cc/t/xr-sunday-social/45529</link>
@@ -25,15 +34,6 @@
       <author>aelab</author>
       <description>OPEN CALL – CCL at Royal Ballet and Opera</description>
       <comments>https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</comments>
-    </item>
-    <item>
-      <title>New addon release: ofxLlamaCpp</title>
-      <link>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</guid>
-      <pubDate>Tue, 03 Mar 2026 18:32:09 GMT</pubDate>
-      <author>yannickhofmann</author>
-      <description>New addon release: ofxLlamaCpp</description>
-      <comments>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</comments>
     </item>
     <item>
       <title>Is Wayland support expected at some point?</title>

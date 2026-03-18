@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 07:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:10:14 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Install_dependencies.sh fails with libgconf2-4 in Ubuntu 19.04</title>
+      <link>https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</guid>
+      <pubDate>Tue, 26 Nov 2019 11:13:15 GMT</pubDate>
+      <author>hamoid</author>
+      <description>Install_dependencies.sh fails with libgconf2-4 in Ubuntu 19.04</description>
+      <comments>https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</comments>
+    </item>
     <item>
       <title>New addon release: ofxLlamaCpp</title>
       <link>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</link>
@@ -268,15 +277,6 @@
       <author>cmendoza</author>
       <description>OF+vcpkg+cmake fork</description>
       <comments>https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</comments>
-    </item>
-    <item>
-      <title>Duration a Timeline for Creative Coding on Ubuntu 22</title>
-      <link>https://forum.openframeworks.cc/t/duration-a-timeline-for-creative-coding-on-ubuntu-22/40910</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/duration-a-timeline-for-creative-coding-on-ubuntu-22/40910</guid>
-      <pubDate>Mon, 12 Dec 2022 18:53:59 GMT</pubDate>
-      <author>fluaten</author>
-      <description>Duration a Timeline for Creative Coding on Ubuntu 22</description>
-      <comments>https://forum.openframeworks.cc/t/duration-a-timeline-for-creative-coding-on-ubuntu-22/40910</comments>
     </item>
   </channel>
 </rss>

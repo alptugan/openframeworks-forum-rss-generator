@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 06:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 13:03:30 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>RtApi::getDeviceInfo: deviceId argument not found</title>
+      <link>https://forum.openframeworks.cc/t/rtapi-deviceid-argument-not-found/45560</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/rtapi-deviceid-argument-not-found/45560</guid>
+      <pubDate>Thu, 19 Mar 2026 07:16:23 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>RtApi::getDeviceInfo: deviceId argument not found</description>
+      <comments>https://forum.openframeworks.cc/t/rtapi-deviceid-argument-not-found/45560</comments>
+    </item>
     <item>
       <title>Install_dependencies.sh fails with libgconf2-4 in Ubuntu 19.04</title>
       <link>https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</link>
@@ -268,15 +277,6 @@
       <author>filete</author>
       <description>Ho do I load Japanese fonts and characters?</description>
       <comments>https://forum.openframeworks.cc/t/ho-do-i-load-japanese-fonts-and-characters/45293</comments>
-    </item>
-    <item>
-      <title>OF+vcpkg+cmake fork</title>
-      <link>https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</guid>
-      <pubDate>Tue, 25 Nov 2025 22:17:35 GMT</pubDate>
-      <author>cmendoza</author>
-      <description>OF+vcpkg+cmake fork</description>
-      <comments>https://forum.openframeworks.cc/t/of-vcpkg-cmake-fork/45272</comments>
     </item>
   </channel>
 </rss>

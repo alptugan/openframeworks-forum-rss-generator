@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 06:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:58:14 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Of-nim (nim language binding)</title>
+      <link>https://forum.openframeworks.cc/t/of-nim-nim-language-binding/45565</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-nim-nim-language-binding/45565</guid>
+      <pubDate>Fri, 20 Mar 2026 12:18:24 GMT</pubDate>
+      <author>funatsufumiya</author>
+      <description>Of-nim (nim language binding)</description>
+      <comments>https://forum.openframeworks.cc/t/of-nim-nim-language-binding/45565</comments>
+    </item>
     <item>
       <title>RtApi::getDeviceInfo: deviceId argument not found</title>
       <link>https://forum.openframeworks.cc/t/rtapi-deviceid-argument-not-found/45560</link>
@@ -268,15 +277,6 @@
       <author>bemoregt</author>
       <description>Finally, I succeeded in running openFrameworks examples on the Arduino Uno Q</description>
       <comments>https://forum.openframeworks.cc/t/finally-i-succeeded-in-running-openframeworks-examples-on-the-arduino-uno-q/45314</comments>
-    </item>
-    <item>
-      <title>Ho do I load Japanese fonts and characters?</title>
-      <link>https://forum.openframeworks.cc/t/ho-do-i-load-japanese-fonts-and-characters/45293</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ho-do-i-load-japanese-fonts-and-characters/45293</guid>
-      <pubDate>Tue, 02 Dec 2025 20:20:59 GMT</pubDate>
-      <author>filete</author>
-      <description>Ho do I load Japanese fonts and characters?</description>
-      <comments>https://forum.openframeworks.cc/t/ho-do-i-load-japanese-fonts-and-characters/45293</comments>
     </item>
   </channel>
 </rss>

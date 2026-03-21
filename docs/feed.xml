@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 06:41:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 12:47:50 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Libwacom on Linux?</title>
+      <link>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/libwacom-on-linux/45569</guid>
+      <pubDate>Sat, 21 Mar 2026 08:55:42 GMT</pubDate>
+      <author>kflak1</author>
+      <description>Libwacom on Linux?</description>
+      <comments>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</comments>
+    </item>
     <item>
       <title>Is Wayland support expected at some point?</title>
       <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
@@ -268,15 +277,6 @@
       <author>homonimm</author>
       <description>Is Compiling OF necessary on rpi?</description>
       <comments>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</comments>
-    </item>
-    <item>
-      <title>Green blanking on video loop point (linux 0.12.1)</title>
-      <link>https://forum.openframeworks.cc/t/green-blanking-on-video-loop-point-linux-0-12-1/45318</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/green-blanking-on-video-loop-point-linux-0-12-1/45318</guid>
-      <pubDate>Fri, 12 Dec 2025 17:43:40 GMT</pubDate>
-      <author>Johannes_Valbjorn</author>
-      <description>Green blanking on video loop point (linux 0.12.1)</description>
-      <comments>https://forum.openframeworks.cc/t/green-blanking-on-video-loop-point-linux-0-12-1/45318</comments>
     </item>
   </channel>
 </rss>

@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 06:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 12:50:42 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Libwacom on Linux?</title>
-      <link>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/libwacom-on-linux/45569</guid>
-      <pubDate>Sat, 21 Mar 2026 08:55:42 GMT</pubDate>
-      <author>kflak1</author>
-      <description>Libwacom on Linux?</description>
-      <comments>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</comments>
-    </item>
     <item>
       <title>Is Wayland support expected at some point?</title>
       <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
@@ -25,6 +16,15 @@
       <author>xkwz</author>
       <description>Is Wayland support expected at some point?</description>
       <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
+    </item>
+    <item>
+      <title>Libwacom on Linux?</title>
+      <link>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/libwacom-on-linux/45569</guid>
+      <pubDate>Sat, 21 Mar 2026 08:55:42 GMT</pubDate>
+      <author>kflak1</author>
+      <description>Libwacom on Linux?</description>
+      <comments>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</comments>
     </item>
     <item>
       <title>The oF learning resources thread</title>

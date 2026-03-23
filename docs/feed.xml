@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 18:54:26 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>The oF learning resources thread</title>
+      <link>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</guid>
+      <pubDate>Tue, 01 Aug 2017 09:00:23 GMT</pubDate>
+      <author>ayruos</author>
+      <description>The oF learning resources thread</description>
+      <comments>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</comments>
+    </item>
     <item>
       <title>Is Wayland support expected at some point?</title>
       <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
@@ -25,15 +34,6 @@
       <author>kflak1</author>
       <description>Libwacom on Linux?</description>
       <comments>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</comments>
-    </item>
-    <item>
-      <title>The oF learning resources thread</title>
-      <link>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</guid>
-      <pubDate>Tue, 01 Aug 2017 09:00:23 GMT</pubDate>
-      <author>ayruos</author>
-      <description>The oF learning resources thread</description>
-      <comments>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</comments>
     </item>
     <item>
       <title>Of-nim (nim language binding)</title>

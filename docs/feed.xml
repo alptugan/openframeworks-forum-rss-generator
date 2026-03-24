@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 13:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 19:02:15 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Can&apos;t get textures to shaders</title>
+      <link>https://forum.openframeworks.cc/t/cant-get-textures-to-shaders/45577</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cant-get-textures-to-shaders/45577</guid>
+      <pubDate>Tue, 24 Mar 2026 14:30:57 GMT</pubDate>
+      <author>kflak1</author>
+      <description>Can&apos;t get textures to shaders</description>
+      <comments>https://forum.openframeworks.cc/t/cant-get-textures-to-shaders/45577</comments>
+    </item>
     <item>
       <title>The oF learning resources thread</title>
       <link>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</link>
@@ -268,15 +277,6 @@
       <author>roymacdonald</author>
       <description>Blackmetalizer: a generative black metal logo generator</description>
       <comments>https://forum.openframeworks.cc/t/blackmetalizer-a-generative-black-metal-logo-generator/45280</comments>
-    </item>
-    <item>
-      <title>Is Compiling OF necessary on rpi?</title>
-      <link>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</guid>
-      <pubDate>Thu, 01 Jan 2026 23:10:57 GMT</pubDate>
-      <author>homonimm</author>
-      <description>Is Compiling OF necessary on rpi?</description>
-      <comments>https://forum.openframeworks.cc/t/is-compiling-of-necessary-on-rpi/45367</comments>
     </item>
   </channel>
 </rss>

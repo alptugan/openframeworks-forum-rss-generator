@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 18:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:28:02 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>VSCodium couldn’t find glu?</title>
+      <link>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</guid>
+      <pubDate>Sun, 29 Mar 2026 22:16:25 GMT</pubDate>
+      <author>Drazinut</author>
+      <description>VSCodium couldn’t find glu?</description>
+      <comments>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</comments>
+    </item>
+    <item>
+      <title>Glu.pc not found even though i have the package</title>
+      <link>https://forum.openframeworks.cc/t/glu-pc-not-found-even-though-i-have-the-package/44651</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/glu-pc-not-found-even-though-i-have-the-package/44651</guid>
+      <pubDate>Fri, 09 May 2025 06:08:29 GMT</pubDate>
+      <author>Penguin</author>
+      <description>Glu.pc not found even though i have the package</description>
+      <comments>https://forum.openframeworks.cc/t/glu-pc-not-found-even-though-i-have-the-package/44651</comments>
+    </item>
     <item>
       <title>How to disable window content stretching while window resizing?</title>
       <link>https://forum.openframeworks.cc/t/how-to-disable-window-content-stretching-while-window-resizing/45582</link>
@@ -259,24 +277,6 @@
       <author>LSka</author>
       <description>Audio panning/routing</description>
       <comments>https://forum.openframeworks.cc/t/audio-panning-routing/45382</comments>
-    </item>
-    <item>
-      <title>Websockets implementation with websocketpp</title>
-      <link>https://forum.openframeworks.cc/t/websockets-implementation-with-websocketpp/45374</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/websockets-implementation-with-websocketpp/45374</guid>
-      <pubDate>Sun, 04 Jan 2026 09:21:08 GMT</pubDate>
-      <author>CarloCattano</author>
-      <description>Websockets implementation with websocketpp</description>
-      <comments>https://forum.openframeworks.cc/t/websockets-implementation-with-websocketpp/45374</comments>
-    </item>
-    <item>
-      <title>Esp-now midi and enomik 3000 (esp-now midi kit)</title>
-      <link>https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</guid>
-      <pubDate>Thu, 01 Jan 2026 22:58:01 GMT</pubDate>
-      <author>thomasgeissl</author>
-      <description>Esp-now midi and enomik 3000 (esp-now midi kit)</description>
-      <comments>https://forum.openframeworks.cc/t/esp-now-midi-and-enomik-3000-esp-now-midi-kit/45366</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 13:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 19:01:13 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</title>
+      <link>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</guid>
+      <pubDate>Wed, 01 Apr 2026 18:27:32 GMT</pubDate>
+      <author>ClayHopper</author>
+      <description>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</description>
+      <comments>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</comments>
+    </item>
     <item>
       <title>Workload not parallelizing across CPU cores</title>
       <link>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</link>
@@ -268,15 +277,6 @@
       <author>Ryan_Paterson</author>
       <description>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</description>
       <comments>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</comments>
-    </item>
-    <item>
-      <title>Call for participation : Libre Graphics Meeting 2026</title>
-      <link>https://forum.openframeworks.cc/t/call-for-participation-libre-graphics-meeting-2026/45408</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/call-for-participation-libre-graphics-meeting-2026/45408</guid>
-      <pubDate>Wed, 14 Jan 2026 11:11:56 GMT</pubDate>
-      <author>hamoid</author>
-      <description>Call for participation : Libre Graphics Meeting 2026</description>
-      <comments>https://forum.openframeworks.cc/t/call-for-participation-libre-graphics-meeting-2026/45408</comments>
     </item>
   </channel>
 </rss>

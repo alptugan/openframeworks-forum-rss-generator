@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 19:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:11:49 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</title>
-      <link>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</guid>
-      <pubDate>Wed, 01 Apr 2026 18:27:32 GMT</pubDate>
-      <author>ClayHopper</author>
-      <description>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</description>
-      <comments>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</comments>
-    </item>
     <item>
       <title>Workload not parallelizing across CPU cores</title>
       <link>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</link>
@@ -25,6 +16,15 @@
       <author>ClayHopper</author>
       <description>Workload not parallelizing across CPU cores</description>
       <comments>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</comments>
+    </item>
+    <item>
+      <title>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</title>
+      <link>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</guid>
+      <pubDate>Wed, 01 Apr 2026 18:27:32 GMT</pubDate>
+      <author>ClayHopper</author>
+      <description>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</description>
+      <comments>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</comments>
     </item>
     <item>
       <title>VSCodium couldn’t find glu?</title>

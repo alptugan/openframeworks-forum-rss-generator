@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 12:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 18:41:35 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Openframeworks_audit_tools</title>
+      <link>https://forum.openframeworks.cc/t/openframeworks-audit-tools/45611</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/openframeworks-audit-tools/45611</guid>
+      <pubDate>Sat, 04 Apr 2026 18:29:45 GMT</pubDate>
+      <author>jvcleave</author>
+      <description>Openframeworks_audit_tools</description>
+      <comments>https://forum.openframeworks.cc/t/openframeworks-audit-tools/45611</comments>
+    </item>
+    <item>
+      <title>Urgent: Kinect resolution issue after OS update (OpenFrameworks / Azure Kinect)</title>
+      <link>https://forum.openframeworks.cc/t/urgent-kinect-resolution-issue-after-os-update-openframeworks-azure-kinect/45609</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/urgent-kinect-resolution-issue-after-os-update-openframeworks-azure-kinect/45609</guid>
+      <pubDate>Sat, 04 Apr 2026 18:06:18 GMT</pubDate>
+      <author>prof_grady</author>
+      <description>Urgent: Kinect resolution issue after OS update (OpenFrameworks / Azure Kinect)</description>
+      <comments>https://forum.openframeworks.cc/t/urgent-kinect-resolution-issue-after-os-update-openframeworks-azure-kinect/45609</comments>
+    </item>
     <item>
       <title>Workload not parallelizing across CPU cores</title>
       <link>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</link>
@@ -259,24 +277,6 @@
       <author>pgfaller</author>
       <description>Sources in ADDON_SOURCES are not compiled</description>
       <comments>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</comments>
-    </item>
-    <item>
-      <title>getOutline() returning 0</title>
-      <link>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/getoutline-returning-0/45418</guid>
-      <pubDate>Sat, 17 Jan 2026 18:34:49 GMT</pubDate>
-      <author>cail</author>
-      <description>getOutline() returning 0</description>
-      <comments>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</comments>
-    </item>
-    <item>
-      <title>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</title>
-      <link>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</guid>
-      <pubDate>Mon, 12 Jan 2026 01:18:48 GMT</pubDate>
-      <author>Ryan_Paterson</author>
-      <description>&quot;ofSoundGetSpectrum() not implemented on this platform&quot; on OSX?</description>
-      <comments>https://forum.openframeworks.cc/t/ofsoundgetspectrum-not-implemented-on-this-platform-on-osx/45398</comments>
     </item>
   </channel>
 </rss>

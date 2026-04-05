@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 12:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 18:42:31 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>VSCodium couldn’t find glu?</title>
+      <link>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</guid>
+      <pubDate>Sun, 29 Mar 2026 22:16:25 GMT</pubDate>
+      <author>Drazinut</author>
+      <description>VSCodium couldn’t find glu?</description>
+      <comments>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</comments>
+    </item>
     <item>
       <title>Urgent: Kinect resolution issue after OS update (OpenFrameworks / Azure Kinect)</title>
       <link>https://forum.openframeworks.cc/t/urgent-kinect-resolution-issue-after-os-update-openframeworks-azure-kinect/45609</link>
@@ -34,15 +43,6 @@
       <author>ClayHopper</author>
       <description>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</description>
       <comments>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</comments>
-    </item>
-    <item>
-      <title>VSCodium couldn’t find glu?</title>
-      <link>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</guid>
-      <pubDate>Sun, 29 Mar 2026 22:16:25 GMT</pubDate>
-      <author>Drazinut</author>
-      <description>VSCodium couldn’t find glu?</description>
-      <comments>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</comments>
     </item>
     <item>
       <title>Glu.pc not found even though i have the package</title>

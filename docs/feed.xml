@@ -5,7 +5,7 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 02:27:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:05:34 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
@@ -16,15 +16,6 @@
       <author>prof_grady</author>
       <description>Urgent: Kinect resolution issue after OS update (OpenFrameworks / Azure Kinect)</description>
       <comments>https://forum.openframeworks.cc/t/urgent-kinect-resolution-issue-after-os-update-openframeworks-azure-kinect/45609</comments>
-    </item>
-    <item>
-      <title>Openframeworks_audit_tools</title>
-      <link>https://forum.openframeworks.cc/t/openframeworks-audit-tools/45611</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/openframeworks-audit-tools/45611</guid>
-      <pubDate>Sat, 04 Apr 2026 18:29:45 GMT</pubDate>
-      <author>jvcleave</author>
-      <description>Openframeworks_audit_tools</description>
-      <comments>https://forum.openframeworks.cc/t/openframeworks-audit-tools/45611</comments>
     </item>
     <item>
       <title>Workload not parallelizing across CPU cores</title>
@@ -277,6 +268,15 @@
       <author>pgfaller</author>
       <description>Sources in ADDON_SOURCES are not compiled</description>
       <comments>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</comments>
+    </item>
+    <item>
+      <title>getOutline() returning 0</title>
+      <link>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/getoutline-returning-0/45418</guid>
+      <pubDate>Sat, 17 Jan 2026 18:34:49 GMT</pubDate>
+      <author>cail</author>
+      <description>getOutline() returning 0</description>
+      <comments>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</comments>
     </item>
   </channel>
 </rss>

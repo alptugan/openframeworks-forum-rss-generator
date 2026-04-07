@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Apr 2026 02:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:16:10 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>ofxVlc4 / ofxProjectM</title>
-      <link>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</guid>
-      <pubDate>Tue, 07 Apr 2026 01:42:09 GMT</pubDate>
-      <author>Jona</author>
-      <description>ofxVlc4 / ofxProjectM</description>
-      <comments>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</comments>
-    </item>
     <item>
       <title>Modf suddenly wanting doubles when passed floats?</title>
       <link>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</link>
@@ -25,6 +16,15 @@
       <author>Drazinut</author>
       <description>Modf suddenly wanting doubles when passed floats?</description>
       <comments>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</comments>
+    </item>
+    <item>
+      <title>ofxVlc4 / ofxProjectM</title>
+      <link>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</guid>
+      <pubDate>Tue, 07 Apr 2026 01:42:09 GMT</pubDate>
+      <author>Jona</author>
+      <description>ofxVlc4 / ofxProjectM</description>
+      <comments>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</comments>
     </item>
     <item>
       <title>VSCodium couldn’t find glu?</title>

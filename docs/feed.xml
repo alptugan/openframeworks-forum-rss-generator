@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 18:58:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 02:23:56 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofxVlc4 / ofxProjectM</title>
+      <link>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</guid>
+      <pubDate>Tue, 07 Apr 2026 01:42:09 GMT</pubDate>
+      <author>Jona</author>
+      <description>ofxVlc4 / ofxProjectM</description>
+      <comments>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</comments>
+    </item>
+    <item>
+      <title>Modf suddenly wanting doubles when passed floats?</title>
+      <link>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</guid>
+      <pubDate>Mon, 06 Apr 2026 23:15:40 GMT</pubDate>
+      <author>Drazinut</author>
+      <description>Modf suddenly wanting doubles when passed floats?</description>
+      <comments>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</comments>
+    </item>
     <item>
       <title>VSCodium couldn’t find glu?</title>
       <link>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</link>
@@ -259,24 +277,6 @@
       <author>Daan</author>
       <description>New addon: ofxBlend2D - 2D vector renderer on the CPU</description>
       <comments>https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</comments>
-    </item>
-    <item>
-      <title>Sources in ADDON_SOURCES are not compiled</title>
-      <link>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</guid>
-      <pubDate>Sun, 11 Jan 2026 15:13:10 GMT</pubDate>
-      <author>pgfaller</author>
-      <description>Sources in ADDON_SOURCES are not compiled</description>
-      <comments>https://forum.openframeworks.cc/t/sources-in-addon-sources-are-not-compiled/45395</comments>
-    </item>
-    <item>
-      <title>getOutline() returning 0</title>
-      <link>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/getoutline-returning-0/45418</guid>
-      <pubDate>Sat, 17 Jan 2026 18:34:49 GMT</pubDate>
-      <author>cail</author>
-      <description>getOutline() returning 0</description>
-      <comments>https://forum.openframeworks.cc/t/getoutline-returning-0/45418</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 19:16:23 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofxLaser update</title>
+      <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-update/45640</guid>
+      <pubDate>Wed, 15 Apr 2026 13:59:47 GMT</pubDate>
+      <author>seb_ly</author>
+      <description>ofxLaser update</description>
+      <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
+    </item>
     <item>
       <title>Modf suddenly wanting doubles when passed floats?</title>
       <link>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</link>
@@ -268,15 +277,6 @@
       <author>alexandrosdrymonitis</author>
       <description>Shouldn&apos;t I deallocate dynamically allocated memory on exit?</description>
       <comments>https://forum.openframeworks.cc/t/shouldnt-i-deallocate-dynamically-allocated-memory-on-exit/45442</comments>
-    </item>
-    <item>
-      <title>New addon: ofxBlend2D - 2D vector renderer on the CPU</title>
-      <link>https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</guid>
-      <pubDate>Mon, 12 Aug 2024 10:09:17 GMT</pubDate>
-      <author>Daan</author>
-      <description>New addon: ofxBlend2D - 2D vector renderer on the CPU</description>
-      <comments>https://forum.openframeworks.cc/t/new-addon-ofxblend2d-2d-vector-renderer-on-the-cpu/43788</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Apr 2026 13:42:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 19:12:38 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>About vibe coding</title>
+      <link>https://forum.openframeworks.cc/t/about-vibe-coding/45643</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/about-vibe-coding/45643</guid>
+      <pubDate>Thu, 16 Apr 2026 14:17:54 GMT</pubDate>
+      <author>liquid</author>
+      <description>About vibe coding</description>
+      <comments>https://forum.openframeworks.cc/t/about-vibe-coding/45643</comments>
+    </item>
     <item>
       <title>ofxLaser update</title>
       <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
@@ -268,15 +277,6 @@
       <author>surrealism</author>
       <description>Image turning white</description>
       <comments>https://forum.openframeworks.cc/t/image-turning-white/45466</comments>
-    </item>
-    <item>
-      <title>Shouldn&apos;t I deallocate dynamically allocated memory on exit?</title>
-      <link>https://forum.openframeworks.cc/t/shouldnt-i-deallocate-dynamically-allocated-memory-on-exit/45442</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/shouldnt-i-deallocate-dynamically-allocated-memory-on-exit/45442</guid>
-      <pubDate>Tue, 27 Jan 2026 08:07:59 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Shouldn&apos;t I deallocate dynamically allocated memory on exit?</description>
-      <comments>https://forum.openframeworks.cc/t/shouldnt-i-deallocate-dynamically-allocated-memory-on-exit/45442</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 18:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:37:56 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Workload not parallelizing across CPU cores</title>
+      <link>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</guid>
+      <pubDate>Tue, 31 Mar 2026 13:51:35 GMT</pubDate>
+      <author>ClayHopper</author>
+      <description>Workload not parallelizing across CPU cores</description>
+      <comments>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</comments>
+    </item>
     <item>
       <title>About vibe coding</title>
       <link>https://forum.openframeworks.cc/t/about-vibe-coding/45643</link>
@@ -61,15 +70,6 @@
       <author>prof_grady</author>
       <description>Urgent: Kinect resolution issue after OS update (OpenFrameworks / Azure Kinect)</description>
       <comments>https://forum.openframeworks.cc/t/urgent-kinect-resolution-issue-after-os-update-openframeworks-azure-kinect/45609</comments>
-    </item>
-    <item>
-      <title>Workload not parallelizing across CPU cores</title>
-      <link>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</guid>
-      <pubDate>Tue, 31 Mar 2026 13:51:35 GMT</pubDate>
-      <author>ClayHopper</author>
-      <description>Workload not parallelizing across CPU cores</description>
-      <comments>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</comments>
     </item>
     <item>
       <title>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</title>

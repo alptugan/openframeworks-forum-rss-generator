@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 02:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:05:51 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofxLaser update</title>
+      <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-update/45640</guid>
+      <pubDate>Wed, 15 Apr 2026 13:59:47 GMT</pubDate>
+      <author>seb_ly</author>
+      <description>ofxLaser update</description>
+      <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
+    </item>
     <item>
       <title>Workload not parallelizing across CPU cores</title>
       <link>https://forum.openframeworks.cc/t/workload-not-parallelizing-across-cpu-cores/45594</link>
@@ -25,15 +34,6 @@
       <author>liquid</author>
       <description>About vibe coding</description>
       <comments>https://forum.openframeworks.cc/t/about-vibe-coding/45643</comments>
-    </item>
-    <item>
-      <title>ofxLaser update</title>
-      <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-update/45640</guid>
-      <pubDate>Wed, 15 Apr 2026 13:59:47 GMT</pubDate>
-      <author>seb_ly</author>
-      <description>ofxLaser update</description>
-      <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
     </item>
     <item>
       <title>Modf suddenly wanting doubles when passed floats?</title>

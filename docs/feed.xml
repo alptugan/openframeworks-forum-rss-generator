@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:27:57 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Modf suddenly wanting doubles when passed floats?</title>
+      <link>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</guid>
+      <pubDate>Mon, 06 Apr 2026 23:15:40 GMT</pubDate>
+      <author>Drazinut</author>
+      <description>Modf suddenly wanting doubles when passed floats?</description>
+      <comments>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</comments>
+    </item>
     <item>
       <title>ofxLaser update</title>
       <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
@@ -34,15 +43,6 @@
       <author>liquid</author>
       <description>About vibe coding</description>
       <comments>https://forum.openframeworks.cc/t/about-vibe-coding/45643</comments>
-    </item>
-    <item>
-      <title>Modf suddenly wanting doubles when passed floats?</title>
-      <link>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</guid>
-      <pubDate>Mon, 06 Apr 2026 23:15:40 GMT</pubDate>
-      <author>Drazinut</author>
-      <description>Modf suddenly wanting doubles when passed floats?</description>
-      <comments>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</comments>
     </item>
     <item>
       <title>ofxVlc4 / ofxProjectM</title>

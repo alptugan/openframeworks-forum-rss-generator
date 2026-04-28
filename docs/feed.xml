@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:40:15 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Is Wayland support expected at some point?</title>
+      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
+      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
+      <author>xkwz</author>
+      <description>Is Wayland support expected at some point?</description>
+      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
+    </item>
+    <item>
+      <title>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</title>
+      <link>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</guid>
+      <pubDate>Tue, 28 Apr 2026 14:38:48 GMT</pubDate>
+      <author>julienbayle</author>
+      <description>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</description>
+      <comments>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</comments>
+    </item>
     <item>
       <title>Install freeimage failed with install_dependencies.sh</title>
       <link>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</link>
@@ -124,15 +142,6 @@
       <author>ayruos</author>
       <description>The oF learning resources thread</description>
       <comments>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</comments>
-    </item>
-    <item>
-      <title>Is Wayland support expected at some point?</title>
-      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
-      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
-      <author>xkwz</author>
-      <description>Is Wayland support expected at some point?</description>
-      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
     </item>
     <item>
       <title>Libwacom on Linux?</title>
@@ -268,15 +277,6 @@
       <author>mDSP</author>
       <description>Menu Resolution</description>
       <comments>https://forum.openframeworks.cc/t/menu-resolution/45462</comments>
-    </item>
-    <item>
-      <title>GUI confusion in OF</title>
-      <link>https://forum.openframeworks.cc/t/gui-confusion-in-of/41924</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/gui-confusion-in-of/41924</guid>
-      <pubDate>Sun, 21 May 2023 19:25:28 GMT</pubDate>
-      <author>SFR75</author>
-      <description>GUI confusion in OF</description>
-      <comments>https://forum.openframeworks.cc/t/gui-confusion-in-of/41924</comments>
     </item>
   </channel>
 </rss>

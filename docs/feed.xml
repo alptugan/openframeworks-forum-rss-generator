@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:40:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 02:49:08 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Install freeimage failed with install_dependencies.sh</title>
+      <link>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</guid>
+      <pubDate>Mon, 27 Apr 2026 17:14:19 GMT</pubDate>
+      <author>icq4ever</author>
+      <description>Install freeimage failed with install_dependencies.sh</description>
+      <comments>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</comments>
+    </item>
     <item>
       <title>Is Wayland support expected at some point?</title>
       <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
@@ -25,15 +34,6 @@
       <author>julienbayle</author>
       <description>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</description>
       <comments>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</comments>
-    </item>
-    <item>
-      <title>Install freeimage failed with install_dependencies.sh</title>
-      <link>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</guid>
-      <pubDate>Mon, 27 Apr 2026 17:14:19 GMT</pubDate>
-      <author>icq4ever</author>
-      <description>Install freeimage failed with install_dependencies.sh</description>
-      <comments>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</comments>
     </item>
     <item>
       <title>Modf suddenly wanting doubles when passed floats?</title>

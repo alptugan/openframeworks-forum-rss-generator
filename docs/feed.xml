@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:54:45 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</title>
+      <link>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</guid>
+      <pubDate>Tue, 28 Apr 2026 14:38:48 GMT</pubDate>
+      <author>julienbayle</author>
+      <description>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</description>
+      <comments>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</comments>
+    </item>
     <item>
       <title>Changing openSSL version</title>
       <link>https://forum.openframeworks.cc/t/changing-openssl-version/45673</link>
@@ -34,15 +43,6 @@
       <author>xkwz</author>
       <description>Is Wayland support expected at some point?</description>
       <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
-    </item>
-    <item>
-      <title>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</title>
-      <link>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</guid>
-      <pubDate>Tue, 28 Apr 2026 14:38:48 GMT</pubDate>
-      <author>julienbayle</author>
-      <description>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</description>
-      <comments>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</comments>
     </item>
     <item>
       <title>Modf suddenly wanting doubles when passed floats?</title>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 13:52:40 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Is Wayland support expected at some point?</title>
+      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
+      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
+      <author>xkwz</author>
+      <description>Is Wayland support expected at some point?</description>
+      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
+    </item>
     <item>
       <title>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</title>
       <link>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</link>
@@ -34,15 +43,6 @@
       <author>icq4ever</author>
       <description>Install freeimage failed with install_dependencies.sh</description>
       <comments>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</comments>
-    </item>
-    <item>
-      <title>Is Wayland support expected at some point?</title>
-      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
-      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
-      <author>xkwz</author>
-      <description>Is Wayland support expected at some point?</description>
-      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
     </item>
     <item>
       <title>Modf suddenly wanting doubles when passed floats?</title>

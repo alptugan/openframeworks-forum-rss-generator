@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 13:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 19:10:38 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Multiple definitions of functions</title>
+      <link>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</guid>
+      <pubDate>Fri, 01 May 2026 14:59:37 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>Multiple definitions of functions</description>
+      <comments>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</comments>
+    </item>
+    <item>
+      <title>ofxLaser update</title>
+      <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-update/45640</guid>
+      <pubDate>Wed, 15 Apr 2026 13:59:47 GMT</pubDate>
+      <author>seb_ly</author>
+      <description>ofxLaser update</description>
+      <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
+    </item>
     <item>
       <title>Is Wayland support expected at some point?</title>
       <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
@@ -52,15 +70,6 @@
       <author>Drazinut</author>
       <description>Modf suddenly wanting doubles when passed floats?</description>
       <comments>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</comments>
-    </item>
-    <item>
-      <title>ofxLaser update</title>
-      <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-update/45640</guid>
-      <pubDate>Wed, 15 Apr 2026 13:59:47 GMT</pubDate>
-      <author>seb_ly</author>
-      <description>ofxLaser update</description>
-      <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
     </item>
     <item>
       <title>Workload not parallelizing across CPU cores</title>
@@ -268,15 +277,6 @@
       <author>dimitre</author>
       <description>Which platforms do you use openFrameworks on?</description>
       <comments>https://forum.openframeworks.cc/t/which-platforms-do-you-use-openframeworks-on/45158</comments>
-    </item>
-    <item>
-      <title>ofLibs (Apothecary alternative)</title>
-      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
-      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofLibs (Apothecary alternative)</description>
-      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
     </item>
   </channel>
 </rss>

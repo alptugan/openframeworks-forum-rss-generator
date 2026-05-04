@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 02:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:27:53 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Multiple definitions of functions</title>
+      <link>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</guid>
+      <pubDate>Fri, 01 May 2026 14:59:37 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>Multiple definitions of functions</description>
+      <comments>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</comments>
+    </item>
     <item>
       <title>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</title>
       <link>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</link>
@@ -25,15 +34,6 @@
       <author>fresla</author>
       <description>Changing openSSL version</description>
       <comments>https://forum.openframeworks.cc/t/changing-openssl-version/45673</comments>
-    </item>
-    <item>
-      <title>Multiple definitions of functions</title>
-      <link>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</guid>
-      <pubDate>Fri, 01 May 2026 14:59:37 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Multiple definitions of functions</description>
-      <comments>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</comments>
     </item>
     <item>
       <title>ofxLaser update</title>

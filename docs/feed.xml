@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 02:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 08:06:42 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>How to add shader effects to ofMesh?</title>
+      <link>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</guid>
+      <pubDate>Sun, 10 May 2026 07:23:34 GMT</pubDate>
+      <author>kflak1</author>
+      <description>How to add shader effects to ofMesh?</description>
+      <comments>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</comments>
+    </item>
     <item>
       <title>Ubuntu 24.04 Rendering Performance Regression</title>
       <link>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression/45707</link>
@@ -268,15 +277,6 @@
       <author>Drazinut</author>
       <description>What are the current (2026) IDE options for OF on Linux?</description>
       <comments>https://forum.openframeworks.cc/t/what-are-the-current-2026-ide-options-for-of-on-linux/45498</comments>
-    </item>
-    <item>
-      <title>Zed code editor, have you tried?</title>
-      <link>https://forum.openframeworks.cc/t/zed-code-editor-have-you-tried/43127</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/zed-code-editor-have-you-tried/43127</guid>
-      <pubDate>Mon, 29 Jan 2024 16:52:45 GMT</pubDate>
-      <author>dimitre</author>
-      <description>Zed code editor, have you tried?</description>
-      <comments>https://forum.openframeworks.cc/t/zed-code-editor-have-you-tried/43127</comments>
     </item>
   </channel>
 </rss>

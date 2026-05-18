@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2026 19:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:36:54 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Webview addon, and how to get texture to render in of window?</title>
+      <link>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</guid>
+      <pubDate>Tue, 04 Jun 2024 08:36:14 GMT</pubDate>
+      <author>thomasgeissl</author>
+      <description>Webview addon, and how to get texture to render in of window?</description>
+      <comments>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</comments>
+    </item>
+    <item>
+      <title>How to add shader effects to ofMesh?</title>
+      <link>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</guid>
+      <pubDate>Sun, 10 May 2026 07:23:34 GMT</pubDate>
+      <author>kflak1</author>
+      <description>How to add shader effects to ofMesh?</description>
+      <comments>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</comments>
+    </item>
     <item>
       <title>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO)</title>
       <link>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo/45707</link>
@@ -25,15 +43,6 @@
       <author>dimitre</author>
       <description>New addon ofxMacTrackpadPressure</description>
       <comments>https://forum.openframeworks.cc/t/new-addon-ofxmactrackpadpressure/45730</comments>
-    </item>
-    <item>
-      <title>How to add shader effects to ofMesh?</title>
-      <link>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</guid>
-      <pubDate>Sun, 10 May 2026 07:23:34 GMT</pubDate>
-      <author>kflak1</author>
-      <description>How to add shader effects to ofMesh?</description>
-      <comments>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</comments>
     </item>
     <item>
       <title>Multiple definitions of functions</title>
@@ -268,15 +277,6 @@
       <author>aelab</author>
       <description>OPEN CALL – CCL at Royal Ballet and Opera</description>
       <comments>https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</comments>
-    </item>
-    <item>
-      <title>Openframeworks and Visual studio 2026</title>
-      <link>https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</guid>
-      <pubDate>Wed, 28 Jan 2026 16:11:50 GMT</pubDate>
-      <author>lluon</author>
-      <description>Openframeworks and Visual studio 2026</description>
-      <comments>https://forum.openframeworks.cc/t/openframeworks-and-visual-studio-2026/45446</comments>
     </item>
   </channel>
 </rss>

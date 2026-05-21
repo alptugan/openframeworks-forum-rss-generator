@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2026 09:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:23:18 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</title>
+      <link>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</guid>
+      <pubDate>Thu, 21 May 2026 12:41:51 GMT</pubDate>
+      <author>clankill3r</author>
+      <description>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</description>
+      <comments>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</comments>
+    </item>
     <item>
       <title>Webview addon, and how to get texture to render in of window?</title>
       <link>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</link>
@@ -268,15 +277,6 @@
       <author>aelab</author>
       <description>XR Sunday Social</description>
       <comments>https://forum.openframeworks.cc/t/xr-sunday-social/45529</comments>
-    </item>
-    <item>
-      <title>OPEN CALL – CCL at Royal Ballet and Opera</title>
-      <link>https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</guid>
-      <pubDate>Thu, 05 Mar 2026 16:15:38 GMT</pubDate>
-      <author>aelab</author>
-      <description>OPEN CALL – CCL at Royal Ballet and Opera</description>
-      <comments>https://forum.openframeworks.cc/t/open-call-ccl-at-royal-ballet-and-opera/45528</comments>
     </item>
   </channel>
 </rss>

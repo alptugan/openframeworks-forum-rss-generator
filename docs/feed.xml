@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2026 03:28:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:54:39 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Is Wayland support expected at some point?</title>
+      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
+      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
+      <author>xkwz</author>
+      <description>Is Wayland support expected at some point?</description>
+      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
+    </item>
     <item>
       <title>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</title>
       <link>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</link>
@@ -97,15 +106,6 @@
       <author>seb_ly</author>
       <description>ofxLaser update</description>
       <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
-    </item>
-    <item>
-      <title>Is Wayland support expected at some point?</title>
-      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
-      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
-      <author>xkwz</author>
-      <description>Is Wayland support expected at some point?</description>
-      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
     </item>
     <item>
       <title>Install freeimage failed with install_dependencies.sh</title>

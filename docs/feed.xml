@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2026 15:54:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 20:21:01 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</title>
+      <link>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</guid>
+      <pubDate>Thu, 07 May 2026 23:56:08 GMT</pubDate>
+      <author>bbogart</author>
+      <description>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</description>
+      <comments>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</comments>
+    </item>
     <item>
       <title>Is Wayland support expected at some point?</title>
       <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
@@ -43,15 +52,6 @@
       <author>kflak1</author>
       <description>How to add shader effects to ofMesh?</description>
       <comments>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</comments>
-    </item>
-    <item>
-      <title>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO)</title>
-      <link>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo/45707</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo/45707</guid>
-      <pubDate>Thu, 07 May 2026 23:56:08 GMT</pubDate>
-      <author>bbogart</author>
-      <description>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO)</description>
-      <comments>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo/45707</comments>
     </item>
     <item>
       <title>New addon ofxMacTrackpadPressure</title>

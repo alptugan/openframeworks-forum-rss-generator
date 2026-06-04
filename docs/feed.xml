@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2026 03:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 09:54:19 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Seeking feedback: stage control software for small theaters</title>
+      <link>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</guid>
+      <pubDate>Thu, 04 Jun 2026 09:17:28 GMT</pubDate>
+      <author>thomasgeissl</author>
+      <description>Seeking feedback: stage control software for small theaters</description>
+      <comments>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</comments>
+    </item>
     <item>
       <title>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</title>
       <link>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</link>
@@ -268,15 +277,6 @@
       <author>alexandrosdrymonitis</author>
       <description>Project generator can&apos;t find current OF root</description>
       <comments>https://forum.openframeworks.cc/t/project-generator-cant-find-current-of-root/45534</comments>
-    </item>
-    <item>
-      <title>XR Sunday Social</title>
-      <link>https://forum.openframeworks.cc/t/xr-sunday-social/45529</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/xr-sunday-social/45529</guid>
-      <pubDate>Thu, 05 Mar 2026 16:17:51 GMT</pubDate>
-      <author>aelab</author>
-      <description>XR Sunday Social</description>
-      <comments>https://forum.openframeworks.cc/t/xr-sunday-social/45529</comments>
     </item>
   </channel>
 </rss>

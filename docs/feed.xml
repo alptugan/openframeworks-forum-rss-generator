@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2026 10:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 15:50:10 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Framework &apos;AGL&apos; not found</title>
+      <link>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/framework-agl-not-found/45061</guid>
+      <pubDate>Wed, 17 Sep 2025 08:36:25 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Framework &apos;AGL&apos; not found</description>
+      <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
+    </item>
     <item>
       <title>Seeking feedback: stage control software for small theaters</title>
       <link>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</link>
@@ -268,15 +277,6 @@
       <author>yannickhofmann</author>
       <description>New addon release: ofxLlamaCpp</description>
       <comments>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</comments>
-    </item>
-    <item>
-      <title>Project generator can&apos;t find current OF root</title>
-      <link>https://forum.openframeworks.cc/t/project-generator-cant-find-current-of-root/45534</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/project-generator-cant-find-current-of-root/45534</guid>
-      <pubDate>Sat, 07 Mar 2026 10:04:20 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>Project generator can&apos;t find current OF root</description>
-      <comments>https://forum.openframeworks.cc/t/project-generator-cant-find-current-of-root/45534</comments>
     </item>
   </channel>
 </rss>

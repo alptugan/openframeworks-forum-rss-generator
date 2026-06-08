@@ -1,12 +1,25 @@
 [
   {
+    "id": 45061,
+    "title": "Framework 'AGL' not found",
+    "url": "https://forum.openframeworks.cc/t/framework-agl-not-found/45061",
+    "author": "Sam_McElhinney_io",
+    "category": 4,
+    "replies": 11,
+    "views": 257,
+    "created_at": "2025-09-17T08:36:25.529Z",
+    "last_posted_at": "2026-06-08T14:16:32.763Z",
+    "pinned": false,
+    "excerpt": ""
+  },
+  {
     "id": 45785,
     "title": "Seeking feedback: stage control software for small theaters",
     "url": "https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785",
     "author": "thomasgeissl",
     "category": 23,
     "replies": 0,
-    "views": 26,
+    "views": 29,
     "created_at": "2026-06-04T09:17:28.250Z",
     "last_posted_at": "2026-06-04T09:17:28.332Z",
     "pinned": false,
@@ -71,7 +84,7 @@
     "author": "kflak1",
     "category": 8,
     "replies": 3,
-    "views": 63,
+    "views": 64,
     "created_at": "2026-05-10T07:23:34.393Z",
     "last_posted_at": "2026-05-17T21:15:46.027Z",
     "pinned": false,
@@ -373,19 +386,6 @@
     "views": 175,
     "created_at": "2026-03-03T18:32:09.106Z",
     "last_posted_at": "2026-03-07T19:45:57.565Z",
-    "pinned": false,
-    "excerpt": ""
-  },
-  {
-    "id": 45534,
-    "title": "Project generator can't find current OF root",
-    "url": "https://forum.openframeworks.cc/t/project-generator-cant-find-current-of-root/45534",
-    "author": "alexandrosdrymonitis",
-    "category": 8,
-    "replies": 2,
-    "views": 57,
-    "created_at": "2026-03-07T10:04:20.060Z",
-    "last_posted_at": "2026-03-07T17:51:29.025Z",
     "pinned": false,
     "excerpt": ""
   }

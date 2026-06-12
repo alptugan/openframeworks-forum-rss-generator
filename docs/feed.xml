@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jun 2026 03:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:11:12 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Framework &apos;AGL&apos; not found</title>
-      <link>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/framework-agl-not-found/45061</guid>
-      <pubDate>Wed, 17 Sep 2025 08:36:25 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Framework &apos;AGL&apos; not found</description>
-      <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
-    </item>
     <item>
       <title>Seeking feedback: stage control software for small theaters</title>
       <link>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</link>
@@ -25,6 +16,15 @@
       <author>thomasgeissl</author>
       <description>Seeking feedback: stage control software for small theaters</description>
       <comments>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</comments>
+    </item>
+    <item>
+      <title>Framework &apos;AGL&apos; not found</title>
+      <link>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/framework-agl-not-found/45061</guid>
+      <pubDate>Wed, 17 Sep 2025 08:36:25 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Framework &apos;AGL&apos; not found</description>
+      <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
     </item>
     <item>
       <title>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</title>

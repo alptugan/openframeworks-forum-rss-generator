@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 10:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 15:21:45 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Difference in cvlc and libvlc performance</title>
+      <link>https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</guid>
+      <pubDate>Mon, 28 Oct 2024 10:39:25 GMT</pubDate>
+      <author>dasoe</author>
+      <description>Difference in cvlc and libvlc performance</description>
+      <comments>https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</comments>
+    </item>
     <item>
       <title>Seeking feedback: stage control software for small theaters</title>
       <link>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</link>
@@ -268,15 +277,6 @@
       <author>hamoid</author>
       <description>Install_dependencies.sh fails with libgconf2-4 in Ubuntu 19.04</description>
       <comments>https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</comments>
-    </item>
-    <item>
-      <title>New addon release: ofxLlamaCpp</title>
-      <link>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</guid>
-      <pubDate>Tue, 03 Mar 2026 18:32:09 GMT</pubDate>
-      <author>yannickhofmann</author>
-      <description>New addon release: ofxLlamaCpp</description>
-      <comments>https://forum.openframeworks.cc/t/new-addon-release-ofxllamacpp/45523</comments>
     </item>
   </channel>
 </rss>

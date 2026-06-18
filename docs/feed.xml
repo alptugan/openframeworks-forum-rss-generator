@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 15:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:24:12 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Not understanding .readByte()</title>
+      <link>https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</guid>
+      <pubDate>Thu, 18 Jun 2026 16:52:49 GMT</pubDate>
+      <author>josiekoch</author>
+      <description>Not understanding .readByte()</description>
+      <comments>https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</comments>
+    </item>
     <item>
       <title>Difference in cvlc and libvlc performance</title>
       <link>https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</link>
@@ -268,15 +277,6 @@
       <author>alexandrosdrymonitis</author>
       <description>RtApi::getDeviceInfo: deviceId argument not found</description>
       <comments>https://forum.openframeworks.cc/t/rtapi-deviceid-argument-not-found/45560</comments>
-    </item>
-    <item>
-      <title>Install_dependencies.sh fails with libgconf2-4 in Ubuntu 19.04</title>
-      <link>https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</guid>
-      <pubDate>Tue, 26 Nov 2019 11:13:15 GMT</pubDate>
-      <author>hamoid</author>
-      <description>Install_dependencies.sh fails with libgconf2-4 in Ubuntu 19.04</description>
-      <comments>https://forum.openframeworks.cc/t/install-dependencies-sh-fails-with-libgconf2-4-in-ubuntu-19-04/33879</comments>
     </item>
   </channel>
 </rss>

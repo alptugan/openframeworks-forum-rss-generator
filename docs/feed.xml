@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 10:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:13:42 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>font.stringWidth() returns +1 for white space in nightly</title>
+      <link>https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</guid>
+      <pubDate>Fri, 19 Jun 2026 12:22:39 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>font.stringWidth() returns +1 for white space in nightly</description>
+      <comments>https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</comments>
+    </item>
+    <item>
+      <title>‘ofTimer’ does not name a type; did you mean ‘ofTime’</title>
+      <link>https://forum.openframeworks.cc/t/oftimer-does-not-name-a-type-did-you-mean-oftime/45828</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oftimer-does-not-name-a-type-did-you-mean-oftime/45828</guid>
+      <pubDate>Fri, 19 Jun 2026 11:01:57 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>‘ofTimer’ does not name a type; did you mean ‘ofTime’</description>
+      <comments>https://forum.openframeworks.cc/t/oftimer-does-not-name-a-type-did-you-mean-oftime/45828</comments>
+    </item>
     <item>
       <title>Error: undefined reference to &apos;main&apos;</title>
       <link>https://forum.openframeworks.cc/t/error-undefined-reference-to-main/45826</link>
@@ -259,24 +277,6 @@
       <author>ayruos</author>
       <description>The oF learning resources thread</description>
       <comments>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</comments>
-    </item>
-    <item>
-      <title>Libwacom on Linux?</title>
-      <link>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/libwacom-on-linux/45569</guid>
-      <pubDate>Sat, 21 Mar 2026 08:55:42 GMT</pubDate>
-      <author>kflak1</author>
-      <description>Libwacom on Linux?</description>
-      <comments>https://forum.openframeworks.cc/t/libwacom-on-linux/45569</comments>
-    </item>
-    <item>
-      <title>Of-nim (nim language binding)</title>
-      <link>https://forum.openframeworks.cc/t/of-nim-nim-language-binding/45565</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-nim-nim-language-binding/45565</guid>
-      <pubDate>Fri, 20 Mar 2026 12:18:24 GMT</pubDate>
-      <author>funatsufumiya</author>
-      <description>Of-nim (nim language binding)</description>
-      <comments>https://forum.openframeworks.cc/t/of-nim-nim-language-binding/45565</comments>
     </item>
   </channel>
 </rss>

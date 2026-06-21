@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 14:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:39:01 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Grey rectangles rendered in exported SVG file</title>
+      <link>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</guid>
+      <pubDate>Sun, 21 Jun 2026 16:34:43 GMT</pubDate>
+      <author>JackKalish</author>
+      <description>Grey rectangles rendered in exported SVG file</description>
+      <comments>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</comments>
+    </item>
     <item>
       <title>font.stringWidth() returns +1 for white space in nightly</title>
       <link>https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</link>
@@ -268,15 +277,6 @@
       <author>kflak1</author>
       <description>Can&apos;t get textures to shaders [SOLVED]</description>
       <comments>https://forum.openframeworks.cc/t/cant-get-textures-to-shaders-solved/45577</comments>
-    </item>
-    <item>
-      <title>The oF learning resources thread</title>
-      <link>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</guid>
-      <pubDate>Tue, 01 Aug 2017 09:00:23 GMT</pubDate>
-      <author>ayruos</author>
-      <description>The oF learning resources thread</description>
-      <comments>https://forum.openframeworks.cc/t/the-of-learning-resources-thread/27430</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 14:30:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:58:54 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Getting started with VS Code?</title>
+      <link>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</guid>
+      <pubDate>Mon, 22 Jun 2026 10:33:01 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Getting started with VS Code?</description>
+      <comments>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</comments>
+    </item>
     <item>
       <title>Is Wayland support expected at some point?</title>
       <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
@@ -25,15 +34,6 @@
       <author>JackKalish</author>
       <description>Grey rectangles rendered in exported SVG file</description>
       <comments>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</comments>
-    </item>
-    <item>
-      <title>Getting started with VS Code?</title>
-      <link>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</guid>
-      <pubDate>Mon, 22 Jun 2026 10:33:01 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Getting started with VS Code?</description>
-      <comments>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</comments>
     </item>
     <item>
       <title>capsLock adds previous key char to string</title>

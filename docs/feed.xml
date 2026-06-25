@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 19:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 03:29:15 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Is Wayland support expected at some point?</title>
+      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
+      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
+      <author>xkwz</author>
+      <description>Is Wayland support expected at some point?</description>
+      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
+    </item>
     <item>
       <title>Grey rectangles rendered in exported SVG file</title>
       <link>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</link>
@@ -106,15 +115,6 @@
       <author>bbogart</author>
       <description>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</description>
       <comments>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</comments>
-    </item>
-    <item>
-      <title>Is Wayland support expected at some point?</title>
-      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
-      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
-      <author>xkwz</author>
-      <description>Is Wayland support expected at some point?</description>
-      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
     </item>
     <item>
       <title>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</title>

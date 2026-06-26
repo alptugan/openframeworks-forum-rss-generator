@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:22:25 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
+      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
+      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
+      <author>JuanT</author>
+      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
+      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
+    </item>
     <item>
       <title>Getting started with VS Code?</title>
       <link>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</link>
@@ -268,15 +277,6 @@
       <author>ClayHopper</author>
       <description>Title: [Paid Work- Need OF dev to fix performance bottleneck — Kinect + Fluid + GLSL project</description>
       <comments>https://forum.openframeworks.cc/t/title-paid-work-need-of-dev-to-fix-performance-bottleneck-kinect-fluid-glsl-project/45598</comments>
-    </item>
-    <item>
-      <title>Glu.pc not found even though i have the package</title>
-      <link>https://forum.openframeworks.cc/t/glu-pc-not-found-even-though-i-have-the-package/44651</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/glu-pc-not-found-even-though-i-have-the-package/44651</guid>
-      <pubDate>Fri, 09 May 2025 06:08:29 GMT</pubDate>
-      <author>Penguin</author>
-      <description>Glu.pc not found even though i have the package</description>
-      <comments>https://forum.openframeworks.cc/t/glu-pc-not-found-even-though-i-have-the-package/44651</comments>
     </item>
   </channel>
 </rss>

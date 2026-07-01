@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 14:32:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:53:22 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
+      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
+      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
+      <author>JuanT</author>
+      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
+      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
+    </item>
     <item>
       <title>New addon ofxDawn - WebGPU for c++ (macOS tested)</title>
       <link>https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</link>
@@ -25,15 +34,6 @@
       <author>dimitre</author>
       <description>ofxPS3Eye with 10bit color, finally</description>
       <comments>https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</comments>
-    </item>
-    <item>
-      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
-      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
-      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
-      <author>JuanT</author>
-      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
-      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
     </item>
     <item>
       <title>Getting started with VS Code?</title>

@@ -5,17 +5,17 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 03:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:54:01 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
-      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
-      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
-      <author>JuanT</author>
-      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
-      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
+      <title>Poco issues with OF 12 and VS 2022</title>
+      <link>https://forum.openframeworks.cc/t/poco-issues-with-of-12-and-vs-2022/45864</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/poco-issues-with-of-12-and-vs-2022/45864</guid>
+      <pubDate>Thu, 02 Jul 2026 08:29:50 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Poco issues with OF 12 and VS 2022</description>
+      <comments>https://forum.openframeworks.cc/t/poco-issues-with-of-12-and-vs-2022/45864</comments>
     </item>
     <item>
       <title>New addon ofxDawn - WebGPU for c++ (macOS tested)</title>
@@ -25,6 +25,15 @@
       <author>dimitre</author>
       <description>New addon ofxDawn - WebGPU for c++ (macOS tested)</description>
       <comments>https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</comments>
+    </item>
+    <item>
+      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
+      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
+      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
+      <author>JuanT</author>
+      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
+      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
     </item>
     <item>
       <title>ofxPS3Eye with 10bit color, finally</title>
@@ -268,15 +277,6 @@
       <author>Jona</author>
       <description>ofxVlc4 / ofxProjectM</description>
       <comments>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</comments>
-    </item>
-    <item>
-      <title>VSCodium couldn’t find glu?</title>
-      <link>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</guid>
-      <pubDate>Sun, 29 Mar 2026 22:16:25 GMT</pubDate>
-      <author>Drazinut</author>
-      <description>VSCodium couldn’t find glu?</description>
-      <comments>https://forum.openframeworks.cc/t/vscodium-couldn-t-find-glu/45590</comments>
     </item>
   </channel>
 </rss>

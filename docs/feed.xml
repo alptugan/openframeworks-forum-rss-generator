@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 15:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 19:54:35 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>New Searchable Addons Site</title>
+      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
+      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
+      <author>braitsch</author>
+      <description>New Searchable Addons Site</description>
+      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
+    </item>
     <item>
       <title>New addon ofxDawn - WebGPU for c++ (macOS tested)</title>
       <link>https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</link>
@@ -268,15 +277,6 @@
       <author>liquid</author>
       <description>About vibe coding</description>
       <comments>https://forum.openframeworks.cc/t/about-vibe-coding/45643</comments>
-    </item>
-    <item>
-      <title>ofxVlc4 / ofxProjectM</title>
-      <link>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</guid>
-      <pubDate>Tue, 07 Apr 2026 01:42:09 GMT</pubDate>
-      <author>Jona</author>
-      <description>ofxVlc4 / ofxProjectM</description>
-      <comments>https://forum.openframeworks.cc/t/ofxvlc4-ofxprojectm/45619</comments>
     </item>
   </channel>
 </rss>

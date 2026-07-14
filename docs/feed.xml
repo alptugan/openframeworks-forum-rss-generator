@@ -5,18 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 13:40:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:17:32 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>ofLibs (Apothecary alternative)</title>
-      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
-      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofLibs (Apothecary alternative)</description>
-      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
-    </item>
     <item>
       <title>Flicker issue on PC</title>
       <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
@@ -25,6 +16,24 @@
       <author>Sam_McElhinney_io</author>
       <description>Flicker issue on PC</description>
       <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
+    </item>
+    <item>
+      <title>UVC Camera in macOS in 2025</title>
+      <link>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</guid>
+      <pubDate>Tue, 01 Jul 2025 20:03:57 GMT</pubDate>
+      <author>dimitre</author>
+      <description>UVC Camera in macOS in 2025</description>
+      <comments>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</comments>
+    </item>
+    <item>
+      <title>ofLibs (Apothecary alternative)</title>
+      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
+      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
+      <author>dimitre</author>
+      <description>ofLibs (Apothecary alternative)</description>
+      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
     </item>
     <item>
       <title>New Searchable Addons Site</title>
@@ -268,15 +277,6 @@
       <author>icq4ever</author>
       <description>Install freeimage failed with install_dependencies.sh</description>
       <comments>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</comments>
-    </item>
-    <item>
-      <title>Modf suddenly wanting doubles when passed floats?</title>
-      <link>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</guid>
-      <pubDate>Mon, 06 Apr 2026 23:15:40 GMT</pubDate>
-      <author>Drazinut</author>
-      <description>Modf suddenly wanting doubles when passed floats?</description>
-      <comments>https://forum.openframeworks.cc/t/modf-suddenly-wanting-doubles-when-passed-floats/45618</comments>
     </item>
   </channel>
 </rss>

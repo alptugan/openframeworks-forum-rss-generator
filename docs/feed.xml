@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 02:49:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:49:24 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>How is AI changing your creative coding workflows? (5-min Research Survey)</title>
+      <link>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</guid>
+      <pubDate>Mon, 27 Jul 2026 07:53:32 GMT</pubDate>
+      <author>jhommes</author>
+      <description>How is AI changing your creative coding workflows? (5-min Research Survey)</description>
+      <comments>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</comments>
+    </item>
     <item>
       <title>UVC Camera in macOS in 2025</title>
       <link>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</link>
@@ -268,15 +277,6 @@
       <author>seb_ly</author>
       <description>ofxLaser update</description>
       <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
-    </item>
-    <item>
-      <title>Install freeimage failed with install_dependencies.sh</title>
-      <link>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</guid>
-      <pubDate>Mon, 27 Apr 2026 17:14:19 GMT</pubDate>
-      <author>icq4ever</author>
-      <description>Install freeimage failed with install_dependencies.sh</description>
-      <comments>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</comments>
     </item>
   </channel>
 </rss>

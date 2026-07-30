@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 02:14:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:24:03 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofxOrtho — invented-language generator</title>
+      <link>https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</guid>
+      <pubDate>Thu, 30 Jul 2026 05:00:48 GMT</pubDate>
+      <author>lee</author>
+      <description>ofxOrtho — invented-language generator</description>
+      <comments>https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</comments>
+    </item>
     <item>
       <title>How is AI changing your creative coding workflows? (5-min Research Survey)</title>
       <link>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</link>
@@ -268,15 +277,6 @@
       <author>fresla</author>
       <description>Changing openSSL version</description>
       <comments>https://forum.openframeworks.cc/t/changing-openssl-version/45673</comments>
-    </item>
-    <item>
-      <title>ofxLaser update</title>
-      <link>https://forum.openframeworks.cc/t/ofxlaser-update/45640</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxlaser-update/45640</guid>
-      <pubDate>Wed, 15 Apr 2026 13:59:47 GMT</pubDate>
-      <author>seb_ly</author>
-      <description>ofxLaser update</description>
-      <comments>https://forum.openframeworks.cc/t/ofxlaser-update/45640</comments>
     </item>
   </channel>
 </rss>

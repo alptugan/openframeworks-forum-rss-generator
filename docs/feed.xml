@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 07:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:05:07 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>compileOF error on linux Fedora 44</title>
+      <link>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</guid>
+      <pubDate>Wed, 12 Aug 2026 08:52:29 GMT</pubDate>
+      <author>Jeevesh_Makker</author>
+      <description>compileOF error on linux Fedora 44</description>
+      <comments>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</comments>
+    </item>
     <item>
       <title>ofxOrtho — invented-language generator</title>
       <link>https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</link>
@@ -268,15 +277,6 @@
       <author>julienbayle</author>
       <description>ofxAbletonLinkAudio — Ableton Link Audio for openFrameworks (cross-host audio streaming)</description>
       <comments>https://forum.openframeworks.cc/t/ofxabletonlinkaudio-ableton-link-audio-for-openframeworks-cross-host-audio-streaming/45671</comments>
-    </item>
-    <item>
-      <title>Changing openSSL version</title>
-      <link>https://forum.openframeworks.cc/t/changing-openssl-version/45673</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-openssl-version/45673</guid>
-      <pubDate>Wed, 29 Apr 2026 03:20:53 GMT</pubDate>
-      <author>fresla</author>
-      <description>Changing openSSL version</description>
-      <comments>https://forum.openframeworks.cc/t/changing-openssl-version/45673</comments>
     </item>
   </channel>
 </rss>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 06:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:41:20 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>New Searchable Addons Site</title>
+      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
+      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
+      <author>braitsch</author>
+      <description>New Searchable Addons Site</description>
+      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
+    </item>
     <item>
       <title>compileOF error on linux Fedora 44</title>
       <link>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</link>
@@ -61,15 +70,6 @@
       <author>dimitre</author>
       <description>ofLibs (Apothecary alternative)</description>
       <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
-    </item>
-    <item>
-      <title>New Searchable Addons Site</title>
-      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
-      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
-      <author>braitsch</author>
-      <description>New Searchable Addons Site</description>
-      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
     </item>
     <item>
       <title>New addon ofxDawn - WebGPU for c++ (macOS tested)</title>

@@ -5,8 +5,278 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:09:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:40:13 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>ofxManifold — continuous preset morphing (barycentric interpolation over a node network)</title>
+      <link>https://forum.openframeworks.cc/t/ofxmanifold-continuous-preset-morphing-barycentric-interpolation-over-a-node-network/45979</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxmanifold-continuous-preset-morphing-barycentric-interpolation-over-a-node-network/45979</guid>
+      <pubDate>Wed, 19 Aug 2026 04:09:56 GMT</pubDate>
+      <author>lee</author>
+      <description>ofxManifold — continuous preset morphing (barycentric interpolation over a node network)</description>
+      <comments>https://forum.openframeworks.cc/t/ofxmanifold-continuous-preset-morphing-barycentric-interpolation-over-a-node-network/45979</comments>
+    </item>
+    <item>
+      <title>New Searchable Addons Site</title>
+      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
+      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
+      <author>braitsch</author>
+      <description>New Searchable Addons Site</description>
+      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
+    </item>
+    <item>
+      <title>compileOF error on linux Fedora 44</title>
+      <link>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</guid>
+      <pubDate>Wed, 12 Aug 2026 08:52:29 GMT</pubDate>
+      <author>Jeevesh_Makker</author>
+      <description>compileOF error on linux Fedora 44</description>
+      <comments>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</comments>
+    </item>
+    <item>
+      <title>ofxOrtho — invented-language generator</title>
+      <link>https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</guid>
+      <pubDate>Thu, 30 Jul 2026 05:00:48 GMT</pubDate>
+      <author>lee</author>
+      <description>ofxOrtho — invented-language generator</description>
+      <comments>https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</comments>
+    </item>
+    <item>
+      <title>How is AI changing your creative coding workflows? (5-min Research Survey)</title>
+      <link>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</guid>
+      <pubDate>Mon, 27 Jul 2026 07:53:32 GMT</pubDate>
+      <author>jhommes</author>
+      <description>How is AI changing your creative coding workflows? (5-min Research Survey)</description>
+      <comments>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</comments>
+    </item>
+    <item>
+      <title>UVC Camera in macOS in 2025</title>
+      <link>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</guid>
+      <pubDate>Tue, 01 Jul 2025 20:03:57 GMT</pubDate>
+      <author>dimitre</author>
+      <description>UVC Camera in macOS in 2025</description>
+      <comments>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</comments>
+    </item>
+    <item>
+      <title>Flicker issue on PC</title>
+      <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</guid>
+      <pubDate>Tue, 07 Jul 2026 18:34:05 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Flicker issue on PC</description>
+      <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
+    </item>
+    <item>
+      <title>ofLibs (Apothecary alternative)</title>
+      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
+      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
+      <author>dimitre</author>
+      <description>ofLibs (Apothecary alternative)</description>
+      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
+    </item>
+    <item>
+      <title>New addon ofxDawn - WebGPU for c++ (macOS tested)</title>
+      <link>https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</guid>
+      <pubDate>Fri, 26 Jun 2026 22:08:04 GMT</pubDate>
+      <author>dimitre</author>
+      <description>New addon ofxDawn - WebGPU for c++ (macOS tested)</description>
+      <comments>https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</comments>
+    </item>
+    <item>
+      <title>Poco issues with OF 12 and VS 2022</title>
+      <link>https://forum.openframeworks.cc/t/poco-issues-with-of-12-and-vs-2022/45864</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/poco-issues-with-of-12-and-vs-2022/45864</guid>
+      <pubDate>Thu, 02 Jul 2026 08:29:50 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Poco issues with OF 12 and VS 2022</description>
+      <comments>https://forum.openframeworks.cc/t/poco-issues-with-of-12-and-vs-2022/45864</comments>
+    </item>
+    <item>
+      <title>Getting started with VS Code?</title>
+      <link>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</guid>
+      <pubDate>Mon, 22 Jun 2026 10:33:01 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Getting started with VS Code?</description>
+      <comments>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</comments>
+    </item>
+    <item>
+      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
+      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
+      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
+      <author>JuanT</author>
+      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
+      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
+    </item>
+    <item>
+      <title>ofxPS3Eye with 10bit color, finally</title>
+      <link>https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</guid>
+      <pubDate>Fri, 26 Jun 2026 21:46:52 GMT</pubDate>
+      <author>dimitre</author>
+      <description>ofxPS3Eye with 10bit color, finally</description>
+      <comments>https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</comments>
+    </item>
+    <item>
+      <title>Is Wayland support expected at some point?</title>
+      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
+      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
+      <author>xkwz</author>
+      <description>Is Wayland support expected at some point?</description>
+      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
+    </item>
+    <item>
+      <title>Grey rectangles rendered in exported SVG file</title>
+      <link>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</guid>
+      <pubDate>Sun, 21 Jun 2026 16:34:43 GMT</pubDate>
+      <author>JackKalish</author>
+      <description>Grey rectangles rendered in exported SVG file</description>
+      <comments>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</comments>
+    </item>
+    <item>
+      <title>capsLock adds previous key char to string</title>
+      <link>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</guid>
+      <pubDate>Fri, 24 Oct 2025 19:02:36 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>capsLock adds previous key char to string</description>
+      <comments>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</comments>
+    </item>
+    <item>
+      <title>font.stringWidth() returns +1 for white space in nightly</title>
+      <link>https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</guid>
+      <pubDate>Fri, 19 Jun 2026 12:22:39 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>font.stringWidth() returns +1 for white space in nightly</description>
+      <comments>https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</comments>
+    </item>
+    <item>
+      <title>‘ofTimer’ does not name a type; did you mean ‘ofTime’</title>
+      <link>https://forum.openframeworks.cc/t/oftimer-does-not-name-a-type-did-you-mean-oftime/45828</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oftimer-does-not-name-a-type-did-you-mean-oftime/45828</guid>
+      <pubDate>Fri, 19 Jun 2026 11:01:57 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>‘ofTimer’ does not name a type; did you mean ‘ofTime’</description>
+      <comments>https://forum.openframeworks.cc/t/oftimer-does-not-name-a-type-did-you-mean-oftime/45828</comments>
+    </item>
+    <item>
+      <title>Error: undefined reference to &apos;main&apos;</title>
+      <link>https://forum.openframeworks.cc/t/error-undefined-reference-to-main/45826</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/error-undefined-reference-to-main/45826</guid>
+      <pubDate>Fri, 19 Jun 2026 06:40:45 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>Error: undefined reference to &apos;main&apos;</description>
+      <comments>https://forum.openframeworks.cc/t/error-undefined-reference-to-main/45826</comments>
+    </item>
+    <item>
+      <title>Not understanding .readByte()</title>
+      <link>https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</guid>
+      <pubDate>Thu, 18 Jun 2026 16:52:49 GMT</pubDate>
+      <author>josiekoch</author>
+      <description>Not understanding .readByte()</description>
+      <comments>https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</comments>
+    </item>
+    <item>
+      <title>Difference in cvlc and libvlc performance</title>
+      <link>https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</guid>
+      <pubDate>Mon, 28 Oct 2024 10:39:25 GMT</pubDate>
+      <author>dasoe</author>
+      <description>Difference in cvlc and libvlc performance</description>
+      <comments>https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</comments>
+    </item>
+    <item>
+      <title>Seeking feedback: stage control software for small theaters</title>
+      <link>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</guid>
+      <pubDate>Thu, 04 Jun 2026 09:17:28 GMT</pubDate>
+      <author>thomasgeissl</author>
+      <description>Seeking feedback: stage control software for small theaters</description>
+      <comments>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</comments>
+    </item>
+    <item>
+      <title>Framework &apos;AGL&apos; not found</title>
+      <link>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/framework-agl-not-found/45061</guid>
+      <pubDate>Wed, 17 Sep 2025 08:36:25 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Framework &apos;AGL&apos; not found</description>
+      <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
+    </item>
+    <item>
+      <title>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</title>
+      <link>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</guid>
+      <pubDate>Thu, 07 May 2026 23:56:08 GMT</pubDate>
+      <author>bbogart</author>
+      <description>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</description>
+      <comments>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</comments>
+    </item>
+    <item>
+      <title>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</title>
+      <link>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</guid>
+      <pubDate>Thu, 21 May 2026 12:41:51 GMT</pubDate>
+      <author>clankill3r</author>
+      <description>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</description>
+      <comments>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</comments>
+    </item>
+    <item>
+      <title>Webview addon, and how to get texture to render in of window?</title>
+      <link>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</guid>
+      <pubDate>Tue, 04 Jun 2024 08:36:14 GMT</pubDate>
+      <author>thomasgeissl</author>
+      <description>Webview addon, and how to get texture to render in of window?</description>
+      <comments>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</comments>
+    </item>
+    <item>
+      <title>How to add shader effects to ofMesh?</title>
+      <link>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</guid>
+      <pubDate>Sun, 10 May 2026 07:23:34 GMT</pubDate>
+      <author>kflak1</author>
+      <description>How to add shader effects to ofMesh?</description>
+      <comments>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</comments>
+    </item>
+    <item>
+      <title>New addon ofxMacTrackpadPressure</title>
+      <link>https://forum.openframeworks.cc/t/new-addon-ofxmactrackpadpressure/45730</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxmactrackpadpressure/45730</guid>
+      <pubDate>Thu, 14 May 2026 13:42:12 GMT</pubDate>
+      <author>dimitre</author>
+      <description>New addon ofxMacTrackpadPressure</description>
+      <comments>https://forum.openframeworks.cc/t/new-addon-ofxmactrackpadpressure/45730</comments>
+    </item>
+    <item>
+      <title>Multiple definitions of functions</title>
+      <link>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</guid>
+      <pubDate>Fri, 01 May 2026 14:59:37 GMT</pubDate>
+      <author>alexandrosdrymonitis</author>
+      <description>Multiple definitions of functions</description>
+      <comments>https://forum.openframeworks.cc/t/multiple-definitions-of-functions/45682</comments>
+    </item>
+    <item>
+      <title>Kinect v1 &amp; skeleton tracking</title>
+      <link>https://forum.openframeworks.cc/t/kinect-v1-skeleton-tracking/45695</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/kinect-v1-skeleton-tracking/45695</guid>
+      <pubDate>Tue, 05 May 2026 17:22:34 GMT</pubDate>
+      <author>cruffoc</author>
+      <description>Kinect v1 &amp; skeleton tracking</description>
+      <comments>https://forum.openframeworks.cc/t/kinect-v1-skeleton-tracking/45695</comments>
+    </item>
   </channel>
 </rss>

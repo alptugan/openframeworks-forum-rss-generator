@@ -5,9 +5,45 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 10:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:47:55 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>compileOF error on linux Fedora 44</title>
+      <link>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</guid>
+      <pubDate>Wed, 12 Aug 2026 08:52:29 GMT</pubDate>
+      <author>Jeevesh_Makker</author>
+      <description>compileOF error on linux Fedora 44</description>
+      <comments>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</comments>
+    </item>
+    <item>
+      <title>Changing openSSL version</title>
+      <link>https://forum.openframeworks.cc/t/changing-openssl-version/45673</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-openssl-version/45673</guid>
+      <pubDate>Wed, 29 Apr 2026 03:20:53 GMT</pubDate>
+      <author>fresla</author>
+      <description>Changing openSSL version</description>
+      <comments>https://forum.openframeworks.cc/t/changing-openssl-version/45673</comments>
+    </item>
+    <item>
+      <title>ofxOnnx and ofxRtmPoseTracker</title>
+      <link>https://forum.openframeworks.cc/t/ofxonnx-and-ofxrtmposetracker/46017</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxonnx-and-ofxrtmposetracker/46017</guid>
+      <pubDate>Fri, 04 Sep 2026 14:26:05 GMT</pubDate>
+      <author>NickHardeman</author>
+      <description>ofxOnnx and ofxRtmPoseTracker</description>
+      <comments>https://forum.openframeworks.cc/t/ofxonnx-and-ofxrtmposetracker/46017</comments>
+    </item>
+    <item>
+      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
+      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
+      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
+      <author>JuanT</author>
+      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
+      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
+    </item>
     <item>
       <title>Poco issues with OF 12 and VS 2022</title>
       <link>https://forum.openframeworks.cc/t/poco-issues-with-of-12-and-vs-2022/45864</link>
@@ -52,15 +88,6 @@
       <author>lee</author>
       <description>ofxManifold — continuous preset morphing (barycentric interpolation over a node network)</description>
       <comments>https://forum.openframeworks.cc/t/ofxmanifold-continuous-preset-morphing-barycentric-interpolation-over-a-node-network/45979</comments>
-    </item>
-    <item>
-      <title>compileOF error on linux Fedora 44</title>
-      <link>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</guid>
-      <pubDate>Wed, 12 Aug 2026 08:52:29 GMT</pubDate>
-      <author>Jeevesh_Makker</author>
-      <description>compileOF error on linux Fedora 44</description>
-      <comments>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</comments>
     </item>
     <item>
       <title>ofxOrtho — invented-language generator</title>
@@ -124,15 +151,6 @@
       <author>Sam_McElhinney_io</author>
       <description>Getting started with VS Code?</description>
       <comments>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</comments>
-    </item>
-    <item>
-      <title>Changing of freeimage library for installation in (Arch) Linux (?)</title>
-      <link>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</guid>
-      <pubDate>Fri, 26 Jun 2026 10:53:08 GMT</pubDate>
-      <author>JuanT</author>
-      <description>Changing of freeimage library for installation in (Arch) Linux (?)</description>
-      <comments>https://forum.openframeworks.cc/t/changing-of-freeimage-library-for-installation-in-arch-linux/45847</comments>
     </item>
     <item>
       <title>ofxPS3Eye with 10bit color, finally</title>
@@ -259,24 +277,6 @@
       <author>thomasgeissl</author>
       <description>Webview addon, and how to get texture to render in of window?</description>
       <comments>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</comments>
-    </item>
-    <item>
-      <title>How to add shader effects to ofMesh?</title>
-      <link>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</guid>
-      <pubDate>Sun, 10 May 2026 07:23:34 GMT</pubDate>
-      <author>kflak1</author>
-      <description>How to add shader effects to ofMesh?</description>
-      <comments>https://forum.openframeworks.cc/t/how-to-add-shader-effects-to-ofmesh/45719</comments>
-    </item>
-    <item>
-      <title>New addon ofxMacTrackpadPressure</title>
-      <link>https://forum.openframeworks.cc/t/new-addon-ofxmactrackpadpressure/45730</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxmactrackpadpressure/45730</guid>
-      <pubDate>Thu, 14 May 2026 13:42:12 GMT</pubDate>
-      <author>dimitre</author>
-      <description>New addon ofxMacTrackpadPressure</description>
-      <comments>https://forum.openframeworks.cc/t/new-addon-ofxmactrackpadpressure/45730</comments>
     </item>
   </channel>
 </rss>

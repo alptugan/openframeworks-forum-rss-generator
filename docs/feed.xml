@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 03:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:59:42 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>openFrameworks Reference Manual in Spanish — 16 classes with examples, practical notes &amp; common errors</title>
+      <link>https://forum.openframeworks.cc/t/openframeworks-reference-manual-in-spanish-16-classes-with-examples-practical-notes-common-errors/46019</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/openframeworks-reference-manual-in-spanish-16-classes-with-examples-practical-notes-common-errors/46019</guid>
+      <pubDate>Sat, 05 Sep 2026 06:19:12 GMT</pubDate>
+      <author>salvaestudio</author>
+      <description>openFrameworks Reference Manual in Spanish — 16 classes with examples, practical notes &amp; common errors</description>
+      <comments>https://forum.openframeworks.cc/t/openframeworks-reference-manual-in-spanish-16-classes-with-examples-practical-notes-common-errors/46019</comments>
+    </item>
     <item>
       <title>compileOF error on linux Fedora 44</title>
       <link>https://forum.openframeworks.cc/t/compileof-error-on-linux-fedora-44/45963</link>
@@ -268,15 +277,6 @@
       <author>clankill3r</author>
       <description>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</description>
       <comments>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</comments>
-    </item>
-    <item>
-      <title>Webview addon, and how to get texture to render in of window?</title>
-      <link>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</guid>
-      <pubDate>Tue, 04 Jun 2024 08:36:14 GMT</pubDate>
-      <author>thomasgeissl</author>
-      <description>Webview addon, and how to get texture to render in of window?</description>
-      <comments>https://forum.openframeworks.cc/t/webview-addon-and-how-to-get-texture-to-render-in-of-window/43599</comments>
     </item>
   </channel>
 </rss>

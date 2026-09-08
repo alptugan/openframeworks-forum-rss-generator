@@ -5,9 +5,36 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 16:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:44:51 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Asatte: a site for Internet Art</title>
+      <link>https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</guid>
+      <pubDate>Tue, 08 Sep 2026 18:42:41 GMT</pubDate>
+      <author>s_e_p</author>
+      <description>Asatte: a site for Internet Art</description>
+      <comments>https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</comments>
+    </item>
+    <item>
+      <title>Two works this year with openFrameworks</title>
+      <link>https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</guid>
+      <pubDate>Tue, 08 Sep 2026 18:33:17 GMT</pubDate>
+      <author>s_e_p</author>
+      <description>Two works this year with openFrameworks</description>
+      <comments>https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</comments>
+    </item>
+    <item>
+      <title>A SuperCollider to openFrameworks clock bridge</title>
+      <link>https://forum.openframeworks.cc/t/a-supercollider-to-openframeworks-clock-bridge/46029</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/a-supercollider-to-openframeworks-clock-bridge/46029</guid>
+      <pubDate>Tue, 08 Sep 2026 17:32:03 GMT</pubDate>
+      <author>lee</author>
+      <description>A SuperCollider to openFrameworks clock bridge</description>
+      <comments>https://forum.openframeworks.cc/t/a-supercollider-to-openframeworks-clock-bridge/46029</comments>
+    </item>
     <item>
       <title>New Searchable Addons Site</title>
       <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
@@ -250,33 +277,6 @@
       <author>thomasgeissl</author>
       <description>Seeking feedback: stage control software for small theaters</description>
       <comments>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</comments>
-    </item>
-    <item>
-      <title>Framework &apos;AGL&apos; not found</title>
-      <link>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/framework-agl-not-found/45061</guid>
-      <pubDate>Wed, 17 Sep 2025 08:36:25 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Framework &apos;AGL&apos; not found</description>
-      <comments>https://forum.openframeworks.cc/t/framework-agl-not-found/45061</comments>
-    </item>
-    <item>
-      <title>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</title>
-      <link>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</guid>
-      <pubDate>Thu, 07 May 2026 23:56:08 GMT</pubDate>
-      <author>bbogart</author>
-      <description>Ubuntu 24.04 Rendering Performance Regression (with GL_RGBA32F FBO) (INVALID)</description>
-      <comments>https://forum.openframeworks.cc/t/ubuntu-24-04-rendering-performance-regression-with-gl-rgba32f-fbo-invalid/45707</comments>
-    </item>
-    <item>
-      <title>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</title>
-      <link>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</guid>
-      <pubDate>Thu, 21 May 2026 12:41:51 GMT</pubDate>
-      <author>clankill3r</author>
-      <description>[ error ] ofAppGLFWWindow: 65544: Cocoa: Cannot query workarea without screen</description>
-      <comments>https://forum.openframeworks.cc/t/error-ofappglfwwindow-65544-cocoa-cannot-query-workarea-without-screen/45748</comments>
     </item>
   </channel>
 </rss>

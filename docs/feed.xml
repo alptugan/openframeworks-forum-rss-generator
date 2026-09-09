@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:27:38 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Depth cams in 2023</title>
+      <link>https://forum.openframeworks.cc/t/depth-cams-in-2023/42458</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/depth-cams-in-2023/42458</guid>
+      <pubDate>Fri, 08 Sep 2023 10:42:45 GMT</pubDate>
+      <author>genekogan</author>
+      <description>Depth cams in 2023</description>
+      <comments>https://forum.openframeworks.cc/t/depth-cams-in-2023/42458</comments>
+    </item>
     <item>
       <title>A SuperCollider to openFrameworks clock bridge</title>
       <link>https://forum.openframeworks.cc/t/a-supercollider-to-openframeworks-clock-bridge/46029</link>
@@ -268,15 +277,6 @@
       <author>dasoe</author>
       <description>Difference in cvlc and libvlc performance</description>
       <comments>https://forum.openframeworks.cc/t/difference-in-cvlc-and-libvlc-performance/44070</comments>
-    </item>
-    <item>
-      <title>Seeking feedback: stage control software for small theaters</title>
-      <link>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</guid>
-      <pubDate>Thu, 04 Jun 2026 09:17:28 GMT</pubDate>
-      <author>thomasgeissl</author>
-      <description>Seeking feedback: stage control software for small theaters</description>
-      <comments>https://forum.openframeworks.cc/t/seeking-feedback-stage-control-software-for-small-theaters/45785</comments>
     </item>
   </channel>
 </rss>

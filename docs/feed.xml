@@ -5,27 +5,9 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 03:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:47:53 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
-    <item>
-      <title>Asatte: a site for Internet Art</title>
-      <link>https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</guid>
-      <pubDate>Tue, 08 Sep 2026 18:42:41 GMT</pubDate>
-      <author>s_e_p</author>
-      <description>Asatte: a site for Internet Art</description>
-      <comments>https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</comments>
-    </item>
-    <item>
-      <title>Two works this year with openFrameworks</title>
-      <link>https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</guid>
-      <pubDate>Tue, 08 Sep 2026 18:33:17 GMT</pubDate>
-      <author>s_e_p</author>
-      <description>Two works this year with openFrameworks</description>
-      <comments>https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</comments>
-    </item>
     <item>
       <title>A SuperCollider to openFrameworks clock bridge</title>
       <link>https://forum.openframeworks.cc/t/a-supercollider-to-openframeworks-clock-bridge/46029</link>
@@ -43,6 +25,24 @@
       <author>braitsch</author>
       <description>New Searchable Addons Site</description>
       <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
+    </item>
+    <item>
+      <title>Asatte: a site for Internet Art</title>
+      <link>https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</guid>
+      <pubDate>Tue, 08 Sep 2026 18:42:41 GMT</pubDate>
+      <author>s_e_p</author>
+      <description>Asatte: a site for Internet Art</description>
+      <comments>https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</comments>
+    </item>
+    <item>
+      <title>Two works this year with openFrameworks</title>
+      <link>https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</guid>
+      <pubDate>Tue, 08 Sep 2026 18:33:17 GMT</pubDate>
+      <author>s_e_p</author>
+      <description>Two works this year with openFrameworks</description>
+      <comments>https://forum.openframeworks.cc/t/two-works-this-year-with-openframeworks/46031</comments>
     </item>
     <item>
       <title>openFrameworks Reference Manual in Spanish — 16 classes with examples, practical notes &amp; common errors</title>

@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 03:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:08:15 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>New Searchable Addons Site</title>
+      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
+      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
+      <author>braitsch</author>
+      <description>New Searchable Addons Site</description>
+      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
+    </item>
     <item>
       <title>A SuperCollider to openFrameworks clock bridge</title>
       <link>https://forum.openframeworks.cc/t/a-supercollider-to-openframeworks-clock-bridge/46029</link>
@@ -25,15 +34,6 @@
       <author>genekogan</author>
       <description>Depth cams in 2023</description>
       <comments>https://forum.openframeworks.cc/t/depth-cams-in-2023/42458</comments>
-    </item>
-    <item>
-      <title>New Searchable Addons Site</title>
-      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
-      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
-      <author>braitsch</author>
-      <description>New Searchable Addons Site</description>
-      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
     </item>
     <item>
       <title>Asatte: a site for Internet Art</title>

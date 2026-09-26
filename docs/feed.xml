@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:50:33 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>OF Steering Comittee</title>
+      <link>https://forum.openframeworks.cc/t/of-steering-comittee/44679</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-steering-comittee/44679</guid>
+      <pubDate>Tue, 20 May 2025 18:15:42 GMT</pubDate>
+      <author>theo</author>
+      <description>OF Steering Comittee</description>
+      <comments>https://forum.openframeworks.cc/t/of-steering-comittee/44679</comments>
+    </item>
     <item>
       <title>ofxECharts live charts and captures from openFrameworks data</title>
       <link>https://forum.openframeworks.cc/t/ofxecharts-live-charts-and-captures-from-openframeworks-data/46059</link>
@@ -268,15 +277,6 @@
       <author>alexandrosdrymonitis</author>
       <description>Error: undefined reference to &apos;main&apos;</description>
       <comments>https://forum.openframeworks.cc/t/error-undefined-reference-to-main/45826</comments>
-    </item>
-    <item>
-      <title>Not understanding .readByte()</title>
-      <link>https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</guid>
-      <pubDate>Thu, 18 Jun 2026 16:52:49 GMT</pubDate>
-      <author>josiekoch</author>
-      <description>Not understanding .readByte()</description>
-      <comments>https://forum.openframeworks.cc/t/not-understanding-readbyte/45824</comments>
     </item>
   </channel>
 </rss>

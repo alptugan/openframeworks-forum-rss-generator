@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:10:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:54:15 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Flicker issue on PC</title>
+      <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</guid>
+      <pubDate>Tue, 07 Jul 2026 18:34:05 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Flicker issue on PC</description>
+      <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
+    </item>
     <item>
       <title>OF Steering Comittee</title>
       <link>https://forum.openframeworks.cc/t/of-steering-comittee/44679</link>
@@ -178,15 +187,6 @@
       <author>dimitre</author>
       <description>UVC Camera in macOS in 2025</description>
       <comments>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</comments>
-    </item>
-    <item>
-      <title>Flicker issue on PC</title>
-      <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</guid>
-      <pubDate>Tue, 07 Jul 2026 18:34:05 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Flicker issue on PC</description>
-      <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
     </item>
     <item>
       <title>ofLibs (Apothecary alternative)</title>

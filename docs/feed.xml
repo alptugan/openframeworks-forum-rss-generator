@@ -5,17 +5,26 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:46:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:35:22 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>OF and AI, and is it OK to submit AI-assisted PRs to addons?</title>
-      <link>https://forum.openframeworks.cc/t/of-and-ai-and-is-it-ok-to-submit-ai-assisted-prs-to-addons/46124</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-and-ai-and-is-it-ok-to-submit-ai-assisted-prs-to-addons/46124</guid>
-      <pubDate>Tue, 20 Oct 2026 05:38:40 GMT</pubDate>
-      <author>fresla</author>
-      <description>OF and AI, and is it OK to submit AI-assisted PRs to addons?</description>
-      <comments>https://forum.openframeworks.cc/t/of-and-ai-and-is-it-ok-to-submit-ai-assisted-prs-to-addons/46124</comments>
+      <title>Flicker issue on PC</title>
+      <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</guid>
+      <pubDate>Tue, 07 Jul 2026 18:34:05 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Flicker issue on PC</description>
+      <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
+    </item>
+    <item>
+      <title>All about CMake</title>
+      <link>https://forum.openframeworks.cc/t/all-about-cmake/41777</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/all-about-cmake/41777</guid>
+      <pubDate>Mon, 24 Apr 2023 16:28:04 GMT</pubDate>
+      <author>HerrNamenlos123</author>
+      <description>All about CMake</description>
+      <comments>https://forum.openframeworks.cc/t/all-about-cmake/41777</comments>
     </item>
     <item>
       <title>Upgrading to macOS 27 and Xcode 27.0</title>
@@ -27,13 +36,13 @@
       <comments>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</comments>
     </item>
     <item>
-      <title>Flicker issue on PC</title>
-      <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</guid>
-      <pubDate>Tue, 07 Jul 2026 18:34:05 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Flicker issue on PC</description>
-      <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
+      <title>OF and AI, and is it OK to submit AI-assisted PRs to addons?</title>
+      <link>https://forum.openframeworks.cc/t/of-and-ai-and-is-it-ok-to-submit-ai-assisted-prs-to-addons/46124</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/of-and-ai-and-is-it-ok-to-submit-ai-assisted-prs-to-addons/46124</guid>
+      <pubDate>Tue, 20 Oct 2026 05:38:40 GMT</pubDate>
+      <author>fresla</author>
+      <description>OF and AI, and is it OK to submit AI-assisted PRs to addons?</description>
+      <comments>https://forum.openframeworks.cc/t/of-and-ai-and-is-it-ok-to-submit-ai-assisted-prs-to-addons/46124</comments>
     </item>
     <item>
       <title>OF Steering Comittee</title>
@@ -268,15 +277,6 @@
       <author>Sam_McElhinney_io</author>
       <description>capsLock adds previous key char to string</description>
       <comments>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</comments>
-    </item>
-    <item>
-      <title>font.stringWidth() returns +1 for white space in nightly</title>
-      <link>https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</guid>
-      <pubDate>Fri, 19 Jun 2026 12:22:39 GMT</pubDate>
-      <author>alexandrosdrymonitis</author>
-      <description>font.stringWidth() returns +1 for white space in nightly</description>
-      <comments>https://forum.openframeworks.cc/t/font-stringwidth-returns-1-for-white-space-in-nightly/45829</comments>
     </item>
   </channel>
 </rss>

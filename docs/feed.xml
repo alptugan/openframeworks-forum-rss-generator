@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:38:15 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Grey rectangles rendered in exported SVG file</title>
+      <link>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</guid>
+      <pubDate>Sun, 21 Jun 2026 16:34:43 GMT</pubDate>
+      <author>JackKalish</author>
+      <description>Grey rectangles rendered in exported SVG file</description>
+      <comments>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</comments>
+    </item>
+    <item>
+      <title>Upgrading to macOS 27 and Xcode 27.0</title>
+      <link>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</guid>
+      <pubDate>Wed, 30 Sep 2026 00:59:02 GMT</pubDate>
+      <author>TimChi</author>
+      <description>Upgrading to macOS 27 and Xcode 27.0</description>
+      <comments>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</comments>
+    </item>
     <item>
       <title>Flicker issue on PC</title>
       <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
@@ -25,15 +43,6 @@
       <author>HerrNamenlos123</author>
       <description>All about CMake</description>
       <comments>https://forum.openframeworks.cc/t/all-about-cmake/41777</comments>
-    </item>
-    <item>
-      <title>Upgrading to macOS 27 and Xcode 27.0</title>
-      <link>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</guid>
-      <pubDate>Wed, 30 Sep 2026 00:59:02 GMT</pubDate>
-      <author>TimChi</author>
-      <description>Upgrading to macOS 27 and Xcode 27.0</description>
-      <comments>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</comments>
     </item>
     <item>
       <title>OF and AI, and is it OK to submit AI-assisted PRs to addons?</title>
@@ -259,15 +268,6 @@
       <author>xkwz</author>
       <description>Is Wayland support expected at some point?</description>
       <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
-    </item>
-    <item>
-      <title>Grey rectangles rendered in exported SVG file</title>
-      <link>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</guid>
-      <pubDate>Sun, 21 Jun 2026 16:34:43 GMT</pubDate>
-      <author>JackKalish</author>
-      <description>Grey rectangles rendered in exported SVG file</description>
-      <comments>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</comments>
     </item>
     <item>
       <title>capsLock adds previous key char to string</title>

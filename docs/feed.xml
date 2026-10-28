@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:12:29 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Install freeimage failed with install_dependencies.sh</title>
+      <link>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</guid>
+      <pubDate>Mon, 27 Apr 2026 17:14:19 GMT</pubDate>
+      <author>icq4ever</author>
+      <description>Install freeimage failed with install_dependencies.sh</description>
+      <comments>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</comments>
+    </item>
     <item>
       <title>Grey rectangles rendered in exported SVG file</title>
       <link>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</link>
@@ -268,15 +277,6 @@
       <author>xkwz</author>
       <description>Is Wayland support expected at some point?</description>
       <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
-    </item>
-    <item>
-      <title>capsLock adds previous key char to string</title>
-      <link>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</guid>
-      <pubDate>Fri, 24 Oct 2025 19:02:36 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>capsLock adds previous key char to string</description>
-      <comments>https://forum.openframeworks.cc/t/capslock-adds-previous-key-char-to-string/45181</comments>
     </item>
   </channel>
 </rss>

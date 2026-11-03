@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:40:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:55:36 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Vs 2022 FreeImage error</title>
+      <link>https://forum.openframeworks.cc/t/vs-2022-freeimage-error/46166</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/vs-2022-freeimage-error/46166</guid>
+      <pubDate>Tue, 03 Nov 2026 22:17:36 GMT</pubDate>
+      <author>starlord</author>
+      <description>Vs 2022 FreeImage error</description>
+      <comments>https://forum.openframeworks.cc/t/vs-2022-freeimage-error/46166</comments>
+    </item>
     <item>
       <title>Install freeimage failed with install_dependencies.sh</title>
       <link>https://forum.openframeworks.cc/t/install-freeimage-failed-with-install-dependencies-sh/45668</link>
@@ -268,15 +277,6 @@
       <author>dimitre</author>
       <description>ofxPS3Eye with 10bit color, finally</description>
       <comments>https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</comments>
-    </item>
-    <item>
-      <title>Is Wayland support expected at some point?</title>
-      <link>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</guid>
-      <pubDate>Wed, 25 Feb 2026 04:44:39 GMT</pubDate>
-      <author>xkwz</author>
-      <description>Is Wayland support expected at some point?</description>
-      <comments>https://forum.openframeworks.cc/t/is-wayland-support-expected-at-some-point/45508</comments>
     </item>
   </channel>
 </rss>

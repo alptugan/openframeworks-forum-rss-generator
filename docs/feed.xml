@@ -5,7 +5,7 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 23:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:15:52 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
     <item>
@@ -16,6 +16,15 @@
       <author>starlord</author>
       <description>Vs 2022 FreeImage error</description>
       <comments>https://forum.openframeworks.cc/t/vs-2022-freeimage-error/46166</comments>
+    </item>
+    <item>
+      <title>WebGPU / Swappable Renderers / Abstracting the core</title>
+      <link>https://forum.openframeworks.cc/t/webgpu-swappable-renderers-abstracting-the-core/46170</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/webgpu-swappable-renderers-abstracting-the-core/46170</guid>
+      <pubDate>Thu, 05 Nov 2026 02:22:31 GMT</pubDate>
+      <author>theo</author>
+      <description>WebGPU / Swappable Renderers / Abstracting the core</description>
+      <comments>https://forum.openframeworks.cc/t/webgpu-swappable-renderers-abstracting-the-core/46170</comments>
     </item>
     <item>
       <title>Install freeimage failed with install_dependencies.sh</title>
@@ -268,15 +277,6 @@
       <author>Sam_McElhinney_io</author>
       <description>Getting started with VS Code?</description>
       <comments>https://forum.openframeworks.cc/t/getting-started-with-vs-code/45837</comments>
-    </item>
-    <item>
-      <title>ofxPS3Eye with 10bit color, finally</title>
-      <link>https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</guid>
-      <pubDate>Fri, 26 Jun 2026 21:46:52 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofxPS3Eye with 10bit color, finally</description>
-      <comments>https://forum.openframeworks.cc/t/ofxps3eye-with-10bit-color-finally/45850</comments>
     </item>
   </channel>
 </rss>

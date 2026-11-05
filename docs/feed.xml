@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:00:59 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Upgrading to macOS 27 and Xcode 27.0</title>
+      <link>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</guid>
+      <pubDate>Wed, 30 Sep 2026 00:59:02 GMT</pubDate>
+      <author>TimChi</author>
+      <description>Upgrading to macOS 27 and Xcode 27.0</description>
+      <comments>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</comments>
+    </item>
     <item>
       <title>Vs 2022 FreeImage error</title>
       <link>https://forum.openframeworks.cc/t/vs-2022-freeimage-error/46166</link>
@@ -43,15 +52,6 @@
       <author>JackKalish</author>
       <description>Grey rectangles rendered in exported SVG file</description>
       <comments>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</comments>
-    </item>
-    <item>
-      <title>Upgrading to macOS 27 and Xcode 27.0</title>
-      <link>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</guid>
-      <pubDate>Wed, 30 Sep 2026 00:59:02 GMT</pubDate>
-      <author>TimChi</author>
-      <description>Upgrading to macOS 27 and Xcode 27.0</description>
-      <comments>https://forum.openframeworks.cc/t/upgrading-to-macos-27-and-xcode-27-0/46076</comments>
     </item>
     <item>
       <title>Flicker issue on PC</title>

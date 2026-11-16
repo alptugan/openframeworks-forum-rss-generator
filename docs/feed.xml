@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:29:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:53:03 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Cannot compile Project Generator</title>
+      <link>https://forum.openframeworks.cc/t/cannot-compile-project-generator/46209</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/cannot-compile-project-generator/46209</guid>
+      <pubDate>Sun, 15 Nov 2026 22:30:09 GMT</pubDate>
+      <author>CatherineWeird</author>
+      <description>Cannot compile Project Generator</description>
+      <comments>https://forum.openframeworks.cc/t/cannot-compile-project-generator/46209</comments>
+    </item>
     <item>
       <title>ECS in OpenFrameworks (EnTT)</title>
       <link>https://forum.openframeworks.cc/t/ecs-in-openframeworks-entt/46184</link>
@@ -268,15 +277,6 @@
       <author>dimitre</author>
       <description>ofLibs (Apothecary alternative)</description>
       <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
-    </item>
-    <item>
-      <title>New addon ofxDawn - WebGPU for c++ (macOS tested)</title>
-      <link>https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</guid>
-      <pubDate>Fri, 26 Jun 2026 22:08:04 GMT</pubDate>
-      <author>dimitre</author>
-      <description>New addon ofxDawn - WebGPU for c++ (macOS tested)</description>
-      <comments>https://forum.openframeworks.cc/t/new-addon-ofxdawn-webgpu-for-c-macos-tested/45851</comments>
     </item>
   </channel>
 </rss>

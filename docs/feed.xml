@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 14:51:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:36:13 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>0.12.2 RC1 - is available for testing!</title>
+      <link>https://forum.openframeworks.cc/t/0-12-2-rc1-is-available-for-testing/46212</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/0-12-2-rc1-is-available-for-testing/46212</guid>
+      <pubDate>Mon, 16 Nov 2026 17:18:35 GMT</pubDate>
+      <author>theo</author>
+      <description>0.12.2 RC1 - is available for testing!</description>
+      <comments>https://forum.openframeworks.cc/t/0-12-2-rc1-is-available-for-testing/46212</comments>
+    </item>
+    <item>
+      <title>Links go to localhost</title>
+      <link>https://forum.openframeworks.cc/t/links-go-to-localhost/46211</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/links-go-to-localhost/46211</guid>
+      <pubDate>Mon, 16 Nov 2026 15:26:31 GMT</pubDate>
+      <author>RonH</author>
+      <description>Links go to localhost</description>
+      <comments>https://forum.openframeworks.cc/t/links-go-to-localhost/46211</comments>
+    </item>
     <item>
       <title>Cannot compile Project Generator</title>
       <link>https://forum.openframeworks.cc/t/cannot-compile-project-generator/46209</link>
@@ -259,24 +277,6 @@
       <author>jhommes</author>
       <description>How is AI changing your creative coding workflows? (5-min Research Survey)</description>
       <comments>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</comments>
-    </item>
-    <item>
-      <title>UVC Camera in macOS in 2025</title>
-      <link>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</guid>
-      <pubDate>Tue, 01 Jul 2025 20:03:57 GMT</pubDate>
-      <author>dimitre</author>
-      <description>UVC Camera in macOS in 2025</description>
-      <comments>https://forum.openframeworks.cc/t/uvc-camera-in-macos-in-2025/44807</comments>
-    </item>
-    <item>
-      <title>ofLibs (Apothecary alternative)</title>
-      <link>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</guid>
-      <pubDate>Wed, 08 Oct 2025 14:42:31 GMT</pubDate>
-      <author>dimitre</author>
-      <description>ofLibs (Apothecary alternative)</description>
-      <comments>https://forum.openframeworks.cc/t/oflibs-apothecary-alternative/45122</comments>
     </item>
   </channel>
 </rss>

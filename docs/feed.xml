@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:54:20 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>New Searchable Addons Site</title>
+      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
+      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
+      <author>braitsch</author>
+      <description>New Searchable Addons Site</description>
+      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
+    </item>
     <item>
       <title>0.12.2 RC1 - is available for testing!</title>
       <link>https://forum.openframeworks.cc/t/0-12-2-rc1-is-available-for-testing/46212</link>
@@ -142,15 +151,6 @@
       <author>fresla</author>
       <description>Changing openSSL version</description>
       <comments>https://forum.openframeworks.cc/t/changing-openssl-version/45673</comments>
-    </item>
-    <item>
-      <title>New Searchable Addons Site</title>
-      <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</guid>
-      <pubDate>Mon, 07 Dec 2015 18:47:16 GMT</pubDate>
-      <author>braitsch</author>
-      <description>New Searchable Addons Site</description>
-      <comments>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</comments>
     </item>
     <item>
       <title>A SuperCollider to openFrameworks clock bridge</title>

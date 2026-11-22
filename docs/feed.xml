@@ -5,9 +5,18 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:14:31 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>How is AI changing your creative coding workflows? (5-min Research Survey)</title>
+      <link>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</guid>
+      <pubDate>Mon, 27 Jul 2026 07:53:32 GMT</pubDate>
+      <author>jhommes</author>
+      <description>How is AI changing your creative coding workflows? (5-min Research Survey)</description>
+      <comments>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</comments>
+    </item>
     <item>
       <title>New Searchable Addons Site</title>
       <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
@@ -268,15 +277,6 @@
       <author>lee</author>
       <description>ofxOrtho — invented-language generator</description>
       <comments>https://forum.openframeworks.cc/t/ofxortho-invented-language-generator/45934</comments>
-    </item>
-    <item>
-      <title>How is AI changing your creative coding workflows? (5-min Research Survey)</title>
-      <link>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</guid>
-      <pubDate>Mon, 27 Jul 2026 07:53:32 GMT</pubDate>
-      <author>jhommes</author>
-      <description>How is AI changing your creative coding workflows? (5-min Research Survey)</description>
-      <comments>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</comments>
     </item>
   </channel>
 </rss>

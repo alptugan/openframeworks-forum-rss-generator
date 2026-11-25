@@ -5,9 +5,27 @@
     <link>https://forum.openframeworks.cc/latest</link>
     <description>Latest posts from the openFrameworks community forum</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 01:55:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:49:33 GMT</lastBuildDate>
     <atom:link href="https://forum.openframeworks.cc/latest.rss" rel="self" type="application/rss+xml" />
 
+    <item>
+      <title>Flicker issue on PC</title>
+      <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</guid>
+      <pubDate>Tue, 07 Jul 2026 18:34:05 GMT</pubDate>
+      <author>Sam_McElhinney_io</author>
+      <description>Flicker issue on PC</description>
+      <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
+    </item>
+    <item>
+      <title>How is AI changing your creative coding workflows? (5-min Research Survey)</title>
+      <link>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</link>
+      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</guid>
+      <pubDate>Mon, 27 Jul 2026 07:53:32 GMT</pubDate>
+      <author>jhommes</author>
+      <description>How is AI changing your creative coding workflows? (5-min Research Survey)</description>
+      <comments>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</comments>
+    </item>
     <item>
       <title>New Searchable Addons Site</title>
       <link>https://forum.openframeworks.cc/t/new-searchable-addons-site/21723</link>
@@ -25,15 +43,6 @@
       <author>s_e_p</author>
       <description>Asatte: a site for Internet Art</description>
       <comments>https://forum.openframeworks.cc/t/asatte-a-site-for-internet-art/46032</comments>
-    </item>
-    <item>
-      <title>How is AI changing your creative coding workflows? (5-min Research Survey)</title>
-      <link>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</guid>
-      <pubDate>Mon, 27 Jul 2026 07:53:32 GMT</pubDate>
-      <author>jhommes</author>
-      <description>How is AI changing your creative coding workflows? (5-min Research Survey)</description>
-      <comments>https://forum.openframeworks.cc/t/how-is-ai-changing-your-creative-coding-workflows-5-min-research-survey/45927</comments>
     </item>
     <item>
       <title>0.12.2 RC1 - is available for testing!</title>
@@ -124,15 +133,6 @@
       <author>JackKalish</author>
       <description>Grey rectangles rendered in exported SVG file</description>
       <comments>https://forum.openframeworks.cc/t/grey-rectangles-rendered-in-exported-svg-file/45834</comments>
-    </item>
-    <item>
-      <title>Flicker issue on PC</title>
-      <link>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</link>
-      <guid isPermaLink="true">https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</guid>
-      <pubDate>Tue, 07 Jul 2026 18:34:05 GMT</pubDate>
-      <author>Sam_McElhinney_io</author>
-      <description>Flicker issue on PC</description>
-      <comments>https://forum.openframeworks.cc/t/flicker-issue-on-pc/45880</comments>
     </item>
     <item>
       <title>OF and AI, and is it OK to submit AI-assisted PRs to addons?</title>
